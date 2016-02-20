@@ -86,8 +86,8 @@
     __gaTracker('send', 'pageview');
     </script>
     <!-- / Google Analytics by Yoast -->
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery.js%3Fver=1.11.3'></script>
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js%3Fver=1.2.1'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js%3Fver=1.11.3'></script>
+    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=1.2.1'></script>
     <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=1'></script>
     <script src="https://cdn.jsdelivr.net/scrollreveal.js/3.0.9/scrollreveal.min.js"></script>
     <link rel='https://api.w.org/' href='wp-json/index.html' />
@@ -283,7 +283,7 @@
                             <!-- Speackers -->
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar2.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar2" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
+                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar2.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar2" srcset="/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -305,7 +305,7 @@
                             <!-- Speackers -->
                             <li id="post-7" class="item post-7 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-first-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar4.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar4" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
+                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar4.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar4" srcset="/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -327,7 +327,7 @@
                             <!-- Speackers -->
                             <li id="post-15" class="item post-15 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-third-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar3.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar3" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
+                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar3.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar3" srcset="/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -349,7 +349,7 @@
                             <!-- Speackers -->
                             <li id="post-19" class="item post-19 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-first-day wpl_speakers_category-second-day wpl_speakers_category-third-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar1.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar1" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
+                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar1.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar1" srcset="/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -395,7 +395,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#cfbdghea">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" /><img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" /><img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>09:00 - 09:30</div>
                                                 <div class="event-title large-8">Welcome</div>
                                                 <div class="clear"></div>
@@ -406,7 +406,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#hfebcdga">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg" class="large-2 right wp-post-image" alt="avatar1" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg" class="large-2 right wp-post-image" alt="avatar1" srcset="/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>09:00 - 10:30</div>
                                                 <div class="event-title large-8">Introduction</div>
                                                 <div class="clear"></div>
@@ -417,7 +417,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#ahbdegfc">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg" class="large-2 right wp-post-image" alt="avatar3" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg" class="large-2 right wp-post-image" alt="avatar3" srcset="/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>12:00 - 14:30</div>
                                                 <div class="event-title large-8">Planning</div>
                                                 <div class="clear"></div>
@@ -428,7 +428,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#cfdhebga">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>15:00 - 17:00</div>
                                                 <div class="event-title large-8">Prototyping</div>
                                                 <div class="clear"></div>
@@ -453,7 +453,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#gadchefb">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg" class="large-2 right wp-post-image" alt="avatar1" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg" class="large-2 right wp-post-image" alt="avatar1" srcset="/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>09:00 - 09:30</div>
                                                 <div class="event-title large-8">Welcome</div>
                                                 <div class="clear"></div>
@@ -464,7 +464,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#eghafcbd">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>10:00 - 11:30</div>
                                                 <div class="event-title large-8">Engineering</div>
                                                 <div class="clear"></div>
@@ -475,7 +475,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#agbchdfe">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>12:15 - 15:45</div>
                                                 <div class="event-title large-8">Product Management</div>
                                                 <div class="clear"></div>
@@ -486,7 +486,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#faedbhgc">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg" class="large-2 right wp-post-image" alt="avatar3" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg" class="large-2 right wp-post-image" alt="avatar3" srcset="/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>16:00 - 17:00</div>
                                                 <div class="event-title large-8">Networking</div>
                                                 <div class="clear"></div>
@@ -511,7 +511,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#aedchgfb">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg" class="large-2 right wp-post-image" alt="avatar3" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" /><img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg" class="large-2 right wp-post-image" alt="avatar3" srcset="/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" /><img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>09:00 - 09:30</div>
                                                 <div class="event-title large-8">Welcome</div>
                                                 <div class="clear"></div>
@@ -522,7 +522,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#cahgdfeb">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg" class="large-2 right wp-post-image" alt="avatar1" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg" class="large-2 right wp-post-image" alt="avatar1" srcset="/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>10:00 - 12:00</div>
                                                 <div class="event-title large-8">Prepare your product</div>
                                                 <div class="clear"></div>
@@ -533,7 +533,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#bdefghca">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg" class="large-2 right wp-post-image" alt="avatar4" srcset="/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>13:00 - 15:00</div>
                                                 <div class="event-title large-8">Promote your Product</div>
                                                 <div class="clear"></div>
@@ -544,7 +544,7 @@
                                         <dt></dt>
                                         <dd class="accordion-navigation">
                                             <a href="index.html#gadhebcf">
-                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
+                                                <img width="60" height="60" src="wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg" class="large-2 right wp-post-image" alt="avatar2" srcset="/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, /wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, /wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 60px) 100vw, 60px" />
                                                 <div class="event-time large-8"><i class="fa fa-clock-o"></i>16:00 - 17:00</div>
                                                 <div class="event-title large-8">Sell Your Product</div>
                                                 <div class="clear"></div>
@@ -582,7 +582,7 @@
         <script type="text/javascript">
         var wplMap = {Lat : 28.7500749,Long: 77.1154765};
         var wplMarker = {Lat : 28.7500749,Long: 77.1154765};
-        var image = 'http://themes.wplook.com/conference/wp-content/themes/conference-wpl/images/map-marker.png';
+        var image = '/wp-content/themes/conference-wpl/images/map-marker.png';
         </script>
 
         <!-- Sponsors -->
@@ -667,7 +667,7 @@
                                         <div class="description">
                                             <p>Lipsum ex lacinia arcu venenatis commodo. Maecenas posuere, libero vitae venenatis rutrum, est massa ornare nisi, eu placerat.</p>
                                         </div>
-                                        <form class="buy" action="http://themes.wplook.com/conference/wp-content/themes/conference-wpl/inc/paypal/buy.php" method="post">
+                                        <form class="buy" action="/wp-content/themes/conference-wpl/inc/paypal/buy.php" method="post">
                                             <label>
                                                 <input name="price" type="hidden" value="199.95">
                                             </label>
@@ -698,7 +698,7 @@
                                         <div class="description">
                                             <p>Ex lacinia arcu venenatis commodo. Maecenas posuere, libero vitae venenatis rutrum, est massa ornare nisi, eu placerat.</p>
                                         </div>
-                                        <form class="buy" action="http://themes.wplook.com/conference/wp-content/themes/conference-wpl/inc/paypal/buy.php" method="post">
+                                        <form class="buy" action="/wp-content/themes/conference-wpl/inc/paypal/buy.php" method="post">
                                             <label>
                                                 <input name="price" type="hidden" value="299.95">
                                             </label>
@@ -725,7 +725,7 @@
         </div>
         <!-- Footer -->
         <div class="footer">
-            <div class="footer_bg" data-stellar-background-ratio="0.2" style="background-image: url('http://themes.wplook.com/conference/ http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/footer_bg.jpg');"></div>
+            <div class="footer_bg" data-stellar-background-ratio="0.2" style="background-image: url('/ /wp-content/uploads/sites/9/2014/10/footer_bg.jpg');"></div>
             <div class="footer_widgets">
                 <div class="row">
                     <!-- First widget area -->
@@ -761,17 +761,17 @@
                                     <!-- First Image -->
                                     <div class="item">
                                         <a title="Third Day Event" href="index.html%3Fp=67.html">
-                                            <img width="311" height="207" src="wp-content/uploads/sites/9/2014/10/01-311x207.jpg" class="attachment-gallery-widget size-gallery-widget wp-post-image" alt="01" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/01-300x200.jpg 300w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/01-1024x682.jpg 1024w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/01-311x207.jpg 311w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/01.jpg 1200w" sizes="(max-width: 311px) 100vw, 311px" /> </a>
+                                            <img width="311" height="207" src="wp-content/uploads/sites/9/2014/10/01-311x207.jpg" class="attachment-gallery-widget size-gallery-widget wp-post-image" alt="01" srcset="/wp-content/uploads/sites/9/2014/10/01-300x200.jpg 300w, /wp-content/uploads/sites/9/2014/10/01-1024x682.jpg 1024w, /wp-content/uploads/sites/9/2014/10/01-311x207.jpg 311w, /wp-content/uploads/sites/9/2014/10/01.jpg 1200w" sizes="(max-width: 311px) 100vw, 311px" /> </a>
                                     </div>
                                     <!-- First Image -->
                                     <div class="item">
                                         <a title="Second day Event" href="index.html%3Fp=66.html">
-                                            <img width="311" height="207" src="wp-content/uploads/sites/9/2014/10/02-311x207.jpg" class="attachment-gallery-widget size-gallery-widget wp-post-image" alt="02" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/02-300x200.jpg 300w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/02-1024x682.jpg 1024w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/02-311x207.jpg 311w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/02.jpg 1200w" sizes="(max-width: 311px) 100vw, 311px" /> </a>
+                                            <img width="311" height="207" src="wp-content/uploads/sites/9/2014/10/02-311x207.jpg" class="attachment-gallery-widget size-gallery-widget wp-post-image" alt="02" srcset="/wp-content/uploads/sites/9/2014/10/02-300x200.jpg 300w, /wp-content/uploads/sites/9/2014/10/02-1024x682.jpg 1024w, /wp-content/uploads/sites/9/2014/10/02-311x207.jpg 311w, /wp-content/uploads/sites/9/2014/10/02.jpg 1200w" sizes="(max-width: 311px) 100vw, 311px" /> </a>
                                     </div>
                                     <!-- First Image -->
                                     <div class="item">
                                         <a title="First day Event" href="index.html%3Fp=62.html">
-                                            <img width="311" height="207" src="wp-content/uploads/sites/9/2014/10/03-311x207.jpg" class="attachment-gallery-widget size-gallery-widget wp-post-image" alt="03" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/03-1024x682.jpg 1024w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/03-311x207.jpg 311w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/03.jpg 1201w" sizes="(max-width: 311px) 100vw, 311px" /> </a>
+                                            <img width="311" height="207" src="wp-content/uploads/sites/9/2014/10/03-311x207.jpg" class="attachment-gallery-widget size-gallery-widget wp-post-image" alt="03" srcset="/wp-content/uploads/sites/9/2014/10/03-1024x682.jpg 1024w, /wp-content/uploads/sites/9/2014/10/03-311x207.jpg 311w, /wp-content/uploads/sites/9/2014/10/03.jpg 1201w" sizes="(max-width: 311px) 100vw, 311px" /> </a>
                                     </div>
                                 </div>
                                 <!-- Pagination -->
@@ -796,8 +796,8 @@
         </div>
     </div>
     <!-- /.wrapper -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js%3Fver=3.51.0-2014.06.20'></script>
+    <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
+    <script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js%3Fver=3.51.0-2014.06.20'></script>
     <script type='text/javascript'>
     /* <![CDATA[ */
     var _wpcf7 = {
@@ -807,11 +807,11 @@
     };
     /* ]]> */
     </script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js%3Fver=4.3.1'></script>
-    <script type='text/javascript' src='wp-content/themes/conference-wpl/assets/javascript/gmaps.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-content/themes/conference-wpl/assets/javascript/app.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-content/themes/conference-wpl/assets/javascript/vendor.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=4.4.2'></script>
+    <script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js%3Fver=4.3.1'></script>
+    <script type='text/javascript' src='/wp-content/themes/conference-wpl/assets/javascript/gmaps.js%3Fver=4.4.2'></script>
+    <script type='text/javascript' src='/wp-content/themes/conference-wpl/assets/javascript/app.js%3Fver=4.4.2'></script>
+    <script type='text/javascript' src='/wp-content/themes/conference-wpl/assets/javascript/vendor.js%3Fver=4.4.2'></script>
+    <script type='text/javascript' src='/wp-includes/js/wp-embed.min.js%3Fver=4.4.2'></script>
 </body>
 
 </html>
