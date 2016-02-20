@@ -9,7 +9,7 @@
                     <!-- Breadcrumbs -->
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
-                            <li><a href="index.html">Home</a></li> <span>Staff</span>
+                            <li><a href="/">Home</a></li> <span>Staff</span>
                             <li class="current">Victor Tihai</li>
                         </ul>
                     </div>
@@ -62,9 +62,9 @@
                             <h3>Staff by category</h3></div>
                         <div class="menu-staff-by-category-container">
                             <ul id="menu-staff-by-category" class="menu">
-                                <li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_staff_category current-post_staff-ancestor current-menu-parent current-post_staff-parent menu-item-143"><a href="staff-category/ceo/index.html">CEO</a></li>
-                                <li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_staff_category menu-item-144"><a href="staff-category/manager/index.html">Manager</a></li>
-                                <li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_staff_category menu-item-142"><a href="staff-category/accountant/index.html">Accountant</a></li>
+                                <li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_staff_category current-post_staff-ancestor current-menu-parent current-post_staff-parent menu-item-143"><a href="staff-category/ceo//">CEO</a></li>
+                                <li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_staff_category menu-item-144"><a href="staff-category/manager//">Manager</a></li>
+                                <li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_staff_category menu-item-142"><a href="staff-category/accountant//">Accountant</a></li>
                             </ul>
                         </div>
                     </aside>

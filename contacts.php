@@ -8,7 +8,7 @@
                     <!-- Breadcrumbs -->
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li class="current">Contact</li>
                         </ul>
                     </div>
@@ -25,7 +25,7 @@
                                 <br />
                                 <div role="form" class="wpcf7" id="wpcf7-f177-p131-o1" lang="en-US" dir="ltr">
                                     <div class="screen-reader-response"></div>
-                                    <form action="index.html%3Fp=131.html#wpcf7-f177-p131-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                    <form action="/%3Fp=131.html#wpcf7-f177-p131-o1" method="post" class="wpcf7-form" novalidate="novalidate">
                                         <div style="display: none;">
                                             <input type="hidden" name="_wpcf7" value="177" />
                                             <input type="hidden" name="_wpcf7_version" value="4.3.1" />

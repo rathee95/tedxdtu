@@ -8,7 +8,7 @@
                     <!-- Breadcrumbs -->
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li class="current">Galleries</li>
                         </ul>
                     </div>
@@ -29,12 +29,12 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile -->
-                                        <a href="index.html%3Fp=67.html" title="Third Day Event">
+                                        <a href="/%3Fp=67.html" title="Third Day Event">
                                             <i class="fa fa-eye"></i>
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=67.html">Third Day Event</a></div>
+                                <div class="name"><a href="/%3Fp=67.html">Third Day Event</a></div>
                                 <!-- Speaker company -->
                             </li>
                             <!-- Speackers -->
@@ -44,12 +44,12 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile -->
-                                        <a href="index.html%3Fp=66.html" title="Second day Event">
+                                        <a href="/%3Fp=66.html" title="Second day Event">
                                             <i class="fa fa-eye"></i>
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=66.html">Second day Event</a></div>
+                                <div class="name"><a href="/%3Fp=66.html">Second day Event</a></div>
                                 <!-- Speaker company -->
                             </li>
                             <!-- Speackers -->
@@ -59,12 +59,12 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile -->
-                                        <a href="index.html%3Fp=62.html" title="First day Event">
+                                        <a href="/%3Fp=62.html" title="First day Event">
                                             <i class="fa fa-eye"></i>
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=62.html">First day Event</a></div>
+                                <div class="name"><a href="/%3Fp=62.html">First day Event</a></div>
                                 <!-- Speaker company -->
                             </li>
                         </ul>

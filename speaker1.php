@@ -8,7 +8,7 @@
                     <!-- Breadcrumbs -->
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
-                            <li><a href="index.html">Home</a></li> <span>Speakers</span>
+                            <li><a href="/">Home</a></li> <span>Speakers</span>
                             <li class="current">Reza Qorbani</li>
                         </ul>
                     </div>
@@ -71,9 +71,9 @@
                             <h3>Speakers by Category</h3></div>
                         <div class="menu-speaker-by-category-container">
                             <ul id="menu-speaker-by-category" class="menu">
-                                <li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_speakers_category current-post_speaker-ancestor current-menu-parent current-post_speaker-parent menu-item-124"><a href="speaker-category/first-day/index.html">First day</a></li>
-                                <li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_speakers_category menu-item-125"><a href="speaker-category/second-day/index.html">Second day</a></li>
-                                <li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_speakers_category menu-item-126"><a href="speaker-category/third-day/index.html">Third Day</a></li>
+                                <li id="menu-item-124" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_speakers_category current-post_speaker-ancestor current-menu-parent current-post_speaker-parent menu-item-124"><a href="speaker-category/first-day//">First day</a></li>
+                                <li id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_speakers_category menu-item-125"><a href="speaker-category/second-day//">Second day</a></li>
+                                <li id="menu-item-126" class="menu-item menu-item-type-taxonomy menu-item-object-wpl_speakers_category menu-item-126"><a href="speaker-category/third-day//">Third Day</a></li>
                             </ul>
                         </div>
                     </aside>
@@ -82,16 +82,16 @@
                             <h3>Recent posts</h3></div>
                         <ul>
                             <li>
-                                <a href="index.html%3Fp=116.html">October 2014 General Conference</a>
+                                <a href="/%3Fp=116.html">October 2014 General Conference</a>
                             </li>
                             <li>
-                                <a href="index.html%3Fp=1.html">Tightest ever security op as NATO Summit</a>
+                                <a href="/%3Fp=1.html">Tightest ever security op as NATO Summit</a>
                             </li>
                             <li>
-                                <a href="index.html%3Fp=114.html">Google Glass developers must solve genuine problems</a>
+                                <a href="/%3Fp=114.html">Google Glass developers must solve genuine problems</a>
                             </li>
                             <li>
-                                <a href="index.html%3Fp=112.html">Rick Stainton Climbing the event summit</a>
+                                <a href="/%3Fp=112.html">Rick Stainton Climbing the event summit</a>
                             </li>
                         </ul>
                     </aside>

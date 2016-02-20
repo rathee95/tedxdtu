@@ -8,7 +8,7 @@
                     <!-- Breadcrumbs -->
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li class="current">Our Team</li>
                         </ul>
                     </div>
@@ -29,7 +29,7 @@
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="index.html%3Fp=138.html">
+                                        <a href="/%3Fp=138.html">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <!-- Social Items -->
@@ -38,9 +38,9 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=138.html">Victor Tihai</a></div>
+                                <div class="name"><a href="/%3Fp=138.html">Victor Tihai</a></div>
                                 <!-- Candidate position -->
-                                <div class="company"><a href="index.html%3Fp=68.html" target="_blank">Director</a></div>
+                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Director</a></div>
                             </li>
                             <!-- Speackers -->
                             <li id="post-139" class="item post-139 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-manager">
@@ -49,7 +49,7 @@
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="index.html%3Fp=139.html">
+                                        <a href="/%3Fp=139.html">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <!-- Social Items -->
@@ -58,9 +58,9 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=139.html">Christophe Tauziet</a></div>
+                                <div class="name"><a href="/%3Fp=139.html">Christophe Tauziet</a></div>
                                 <!-- Candidate position -->
-                                <div class="company"><a href="index.html%3Fp=68.html" target="_blank">Manager</a></div>
+                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Manager</a></div>
                             </li>
                             <!-- Speackers -->
                             <li id="post-140" class="item post-140 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-accountant">
@@ -69,7 +69,7 @@
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="index.html%3Fp=140.html">
+                                        <a href="/%3Fp=140.html">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <!-- Social Items -->
@@ -78,9 +78,9 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=140.html">Anthony Garand</a></div>
+                                <div class="name"><a href="/%3Fp=140.html">Anthony Garand</a></div>
                                 <!-- Candidate position -->
-                                <div class="company"><a href="index.html%3Fp=68.html" target="_blank">Accountant</a></div>
+                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Accountant</a></div>
                             </li>
                             <!-- Speackers -->
                             <li id="post-141" class="item post-141 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-accountant">
@@ -89,7 +89,7 @@
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="index.html%3Fp=141.html">
+                                        <a href="/%3Fp=141.html">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <!-- Social Items -->
@@ -98,9 +98,9 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="index.html%3Fp=141.html">Reza Qorbani</a></div>
+                                <div class="name"><a href="/%3Fp=141.html">Reza Qorbani</a></div>
                                 <!-- Candidate position -->
-                                <div class="company"><a href="index.html%3Fp=68.html" target="_blank">Accountant</a></div>
+                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Accountant</a></div>
                             </li>
                         </ul>
                     </div>

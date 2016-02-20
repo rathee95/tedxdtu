@@ -42,9 +42,15 @@ X Speakers will provide insights in to their work and offer ways to make us all 
                                             <a target="_blank" title="Twitter" href="https://twitter.com/tedxdtu">
                                                 <i class="fa fa-twitter"></i>Twitter </a>
                                         </li>
+
                                         <li>
                                             <a target="_blank" title="Facebook" href="http://www.facebook.com/tedxdtu">
                                                 <i class="fa fa-facebook"></i>Facebook </a>
+                                        </li>
+
+                                        <li>
+                                            <a target="_blank" title="insta" href="http://www.nstagram.com/tedxdtu">
+                                                <i class="fa fa-instagram"></i>Instagram</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -244,7 +250,7 @@ X Speakers will provide insights in to their work and offer ways to make us all 
                         </ul>
                         <!-- View all Speakers Button -->
                         <div class="view-all-speakers">
-                            <a href="speakers.php" title="View all Speakers" class="btn-default">View all Speakers</a>
+                            <a href="speakers.html" title="View all Speakers" class="btn-default">View all Speakers</a>
                         </div>
                     </div>
                 </div>
@@ -436,79 +442,10 @@ X Speakers will provide insights in to their work and offer ways to make us all 
                 </div>
             </div>
         </div>
-        <!-- Contact us / Map -->
-        <div class="maps" id="location">
-            <div id="js-map"></div>
-            <div class="map-location">
-                <h2>Location</h2>
-                <ul itemscope="" itemtype="http://schema.org/PostalAddress">
-                    <!-- Address -->
-                    <li class="title">Address</li>
-                    <li itemprop="address">DTU ,New Delhi</li>
-                    <!-- Email -->
-                    <li class="title">Email</li>
-                    <li itemprop="email">tedx@blah.blah</li>
-                    <!-- Phone -->
-                    <li class="title">Phone</li>
-                    <li itemprop="telephone">09582135023</li>
-                </ul>
-            </div>
-        </div>
-        <script type="text/javascript">
-        var wplMap = {
-            Lat: 28.7500749,
-            Long: 77.1154765
-        };
-        var wplMarker = {
-            Lat: 28.7500749,
-            Long: 77.1154765
-        };
-        var image = '/wp-content/themes/conference-wpl/images/map-marker.png';
-        </script>
-        <!-- Sponsors -->
-        <div class="partners widget-content" id="sponsors">
-            <div class="row">
-                <div class="columns small-12 medium-12 large-12">
-                    <div class="center-content">
-                        <h2>Our Sponsors</h2>
-                        <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
-                            <!-- First Speacker -->
-                            <!-- Speackers -->
-                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="https://typekit.com/foundries/adobe" title="Webfonts">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_1.jpg" width="200" height="85" alt="Webfonts">
-                                </a>
-                            </li>
-                            <!-- Speackers -->
-                            <li id="post-37" class="item post-37 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="https://typekit.com/foundries/adobe" title="Offscreen">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_2.jpg" width="200" height="85" alt="Offscreen">
-                                </a>
-                            </li>
-                            <!-- Speackers -->
-                            <li id="post-42" class="item post-42 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="https://typekit.com/foundries/adobe" title="Campaign Monitor">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_3.jpg" width="200" height="85" alt="Campaign Monitor">
-                                </a>
-                            </li>
-                            <!-- Speackers -->
-                            <li id="post-44" class="item post-44 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="https://typekit.com/foundries/adobe" title="Adobe typekit">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_4.jpg" width="200" height="85" alt="Adobe typekit">
-                                </a>
-                            </li>
-                        </ul>
-                        <!-- View all Sponsors Button -->
-                        <div class="view-all-partners">
-                            <a href="sponsors.php" title="View all Sponsors" class="btn-default">View all Sponsors</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <!-- Buy tickets -->
         <div class="buytickets widget-content" id="pricing">
-            <div class="buytickets_bg" data-stellar-background-ratio="0.2" style="background-image: url('wp-content/uploads/sites/9/2014/10/tickets_bg.jpg');"></div>
+            <div class="buytickets_bg" data-stellar-background-ratio="0.2" style="background-image: url('wp-content/uploads/sites/9/2014/10/oat1.jpg');"></div>
             <div class="row">
                 <div class="columns small-12 medium-12 large-12">
                     <div class="center-content">
@@ -603,8 +540,52 @@ X Speakers will provide insights in to their work and offer ways to make us all 
                 </div>
             </div>
         </div>
-        <?php include 'includes/footer.html'; ?>
+        
     </div>
+
+
+        <!-- Sponsors -->
+        <div class="partners widget-content" id="sponsors">
+            <div class="row">
+                <div class="columns small-12 medium-12 large-12">
+                    <div class="center-content">
+                        <h2>Our Sponsors</h2>
+                        <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
+                            <!-- First Speacker -->
+                            <!-- Speackers -->
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="https://typekit.com/foundries/adobe" title="Webfonts">
+                                    <img src="wp-content/uploads/sites/9/2014/10/logo_1.jpg" width="200" height="85" alt="Webfonts">
+                                </a>
+                            </li>
+                            <!-- Speackers -->
+                            <li id="post-37" class="item post-37 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="https://typekit.com/foundries/adobe" title="Offscreen">
+                                    <img src="wp-content/uploads/sites/9/2014/10/logo_2.jpg" width="200" height="85" alt="Offscreen">
+                                </a>
+                            </li>
+                            <!-- Speackers -->
+                            <li id="post-42" class="item post-42 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="https://typekit.com/foundries/adobe" title="Campaign Monitor">
+                                    <img src="wp-content/uploads/sites/9/2014/10/logo_3.jpg" width="200" height="85" alt="Campaign Monitor">
+                                </a>
+                            </li>
+                            <!-- Speackers -->
+                            <li id="post-44" class="item post-44 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="https://typekit.com/foundries/adobe" title="Adobe typekit">
+                                    <img src="wp-content/uploads/sites/9/2014/10/logo_4.jpg" width="200" height="85" alt="Adobe typekit">
+                                </a>
+                            </li>
+                        </ul>
+                        <!-- View all Sponsors Button -->
+                        <div class="view-all-partners">
+                            <a href="sponsors.php" title="View all Sponsors" class="btn-default">View all Sponsors</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <?php include 'includes/footer.html'; ?>
     <!-- /.wrapper -->
     <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
     <script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js%3Fver=3.51.0-2014.06.20'></script>
