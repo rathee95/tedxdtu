@@ -30,7 +30,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="https://www.facebook.com/" target="_blank">
@@ -41,7 +41,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Sonal Kapoor</a></div>
+                                <div class="name"><a href="speaker1.php">Sonal Kapoor</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="http://www.protsahan.co.in/" target="_blank">Protsahan India Foundation</a></div>
                             </li>
@@ -52,7 +52,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="https://twitter.com/" target="_blank">
@@ -63,7 +63,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Vickey Roy</a></div>
+                                <div class="name"><a href="speaker1.php">Vickey Roy</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">Photographer</a></div>
                             </li>
@@ -74,7 +74,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="http://www.facebook.com/" target="_blank">
@@ -85,7 +85,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Durjoy Dutta</a></div>
+                                <div class="name"><a href="speaker1.php">Durjoy Dutta</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">Author</a></div>
                             </li>
@@ -96,7 +96,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="http://www.facebook.com/" target="_blank">
@@ -104,7 +104,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Meher Malik</a></div>
+                                <div class="name"><a href="speaker1.php">Meher Malik</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">Dancer</a></div>
                             </li>
@@ -115,7 +115,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="http://www.facebook.com/" target="_blank">
@@ -123,7 +123,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Kanth Risa</a></div>
+                                <div class="name"><a href="speaker1.php">Kanth Risa</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">Artist</a></div>
                             </li>
@@ -134,7 +134,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="http://www.facebook.com/" target="_blank">
@@ -142,7 +142,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Irfan Alam</a></div>
+                                <div class="name"><a href="speaker1.php">Irfan Alam</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">Sammaan Foundation</a></div>
                             </li>
@@ -153,7 +153,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="http://www.facebook.com/" target="_blank">
@@ -161,7 +161,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Siddharth Sharma</a></div>
+                                <div class="name"><a href="speaker1.php">Siddharth Sharma</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">Success works</a></div>
                             </li>
@@ -172,7 +172,7 @@
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
-                                        <a href="speaker1.html">
+                                        <a href="speaker1.php">
                                             <i class="fa fa-user"></i>
                                         </a>
                                         <a href="http://www.facebook.com/" target="_blank">
@@ -180,7 +180,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="speaker1.html">Ishita Chaudhary</a></div>
+                                <div class="name"><a href="speaker1.php">Ishita Chaudhary</a></div>
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#" target="_blank">YP Foundation</a></div>
                             </li>
