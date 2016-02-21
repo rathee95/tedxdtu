@@ -21,9 +21,7 @@
                 <div class="columns small-12 medium-9 large-9">
                     <article id="post-131" class="list post-131 page type-page status-publish hentry">
                         <div class="entry-content">
-                            <p>Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque nisi, facilisis id nulla ut, laoreet hendrerit elit. Suspendisse ligula ipsum, rhoncus et facilisis lobortis, vulputate sit amet.
-                                <br />
-                                <div role="form" class="wpcf7" id="wpcf7-f177-p131-o1" lang="en-US" dir="ltr">
+                                                            <div role="form" class="wpcf7" id="wpcf7-f177-p131-o1" lang="en-US" dir="ltr">
                                     <div class="screen-reader-response"></div>
                                     <form action="/%3Fp=131.html#wpcf7-f177-p131-o1" method="post" class="wpcf7-form" novalidate="novalidate">
                                         <div style="display: none;">
@@ -60,7 +58,7 @@
                     <aside id="text-6" class="widget widget_text">
                         <div class="widget-title">
                             <h3>Say Hello!</h3></div>
-                        <div class="textwidget">Street Name - 51 Sherbrook W. Montreal, Quebec H4B H4Y Canada Phone: +1 524 000 0000 E-mail: conference@mail.com Website: www.wplook.com</div>
+                        <div class="textwidget">Delhi Technological University , Near Sector 18 ,Rohini , New Delhi-110042 Phone: 09582135023 E-mail: contact@tedxdtu.com </div>
                     </aside>
                 </div>
             </div>
