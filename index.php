@@ -7,7 +7,7 @@
         <?php include 'includes/navigation.php'; ?>
         <!-- Teaser -->
         <div class="banner" id="home">
-            <div class="banner_bg" data-stellar-background-ratio="0.2" style="background-image: url('wp-content/uploads/sites/9/2014/10/img1.jpg');"></div>
+            <div class="banner_bg" data-stellar-background-ratio="0.2" style="background-image: url('wp-content/uploads/sites/9/2014/10/img1.jpg')  ;"></div>
             <div class="row">
                 <div class="colums small-12 medium-12-large-12">
                     <div class="center-content">
@@ -282,7 +282,7 @@
     <?php include 'includes/footer.html'; ?>
     <!-- /.wrapper -->
     <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js%3Fver=3.51.0-2014.06.20'></script>
+    <script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
     <script type='text/javascript'>
     /* <![CDATA[ */
     var _wpcf7 = {

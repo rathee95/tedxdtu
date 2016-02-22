@@ -102,7 +102,7 @@
     </div>
     <!-- /.wrapper -->
     <script type='text/javascript' src='wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js%3Fver=3.51.0-2014.06.20'></script>
+    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
     <script type='text/javascript'>
     /* <![CDATA[ */
     var _wpcf7 = {
