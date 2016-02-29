@@ -74,7 +74,7 @@
         </div>
                 <video autoplay   id="bgvid" loop>
   <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
-<source src="/wp-includes/js/Tedxdtu.webm" type="video/webm">
+<source src="/wp-includes/js/tedxdtu.webm" type="video/webm">
 </video>
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
@@ -242,7 +242,7 @@
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_ishita.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="ishita"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_durjoy.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="durjoy"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -257,9 +257,9 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="#speakers">Ishita Chaudhary</a></div>
+                                <div class="name"><a href="#speakers">Durjoy Dutta</a></div>
                                 <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">CEO, THE YP Foundation</a></div>
+                                <div class="company"><a href="#speakers">Author</a></div>
                             </li>
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
