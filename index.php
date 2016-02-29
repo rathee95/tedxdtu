@@ -111,7 +111,7 @@
                             <!-- Speackers -->
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_sonal.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="sonal"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_kiran.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kiran"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -126,13 +126,13 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="#speakers">Sonal Kapoor</a></div>
+                                <div class="name"><a href="#speakers">Kiran Bedi</a></div>
                                 <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Protsahan India Foundation</a></div>
+                                <div class="company"><a href="#speakers">Ex-IPS Officer</a></div>
                             </li>
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_archan.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="archan"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_aaa.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="runa"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -147,36 +147,14 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="#speakers">Archan Nair </a></div>
+                                <div class="name"><a href="#speakers">Runa Khan </a></div>
                                 <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Art Director</a></div>
-                            </li>
-                            
-                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
-                                <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_irfan.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="irfan"  />
-                                    <!-- Speaker media links -->
-                                    <div class="social">
-                                        <!-- Speacker profile / blog url -->
-                                        <a href="#speakers">
-                                            <i class="fa fa-user"></i>
-                                        </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                        <a href="https://twitter.com/" target="_blank">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="name"><a href="#speakers">Irfan Alam</a></div>
-                                <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Sammann Foundation</a></div>
+                                <div class="company"><a href="#speakers">Friendship Bangladesh</a></div>
                             </li>
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_vicky-roy.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="vicky"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_saloni.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="saloni"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -191,14 +169,36 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="#speakers">Vicky Roy</a></div>
+                                <div class="name"><a href="#speakers">Saloni Malhotra</a></div>
                                 <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Photographer</a></div>
+                                <div class="company"><a href="#speakers">TeNet Group</a></div>
                             </li>
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_kanth.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kanth"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_arbind.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="arbind"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Arbind Saraf</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Swasth India</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_kanth.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kanth"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -220,7 +220,7 @@
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/sid-220x220.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="sonal"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_nitin.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="nitin"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
@@ -235,9 +235,9 @@
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="#speakers">Siddharth Sharma</a></div>
+                                <div class="name"><a href="#speakers">Nitin Gupta</a></div>
                                 <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Founder, Success Works</a></div>
+                                <div class="company"><a href="#speakers">Comedian</a></div>
                             </li>
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
@@ -264,7 +264,7 @@
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/rsz_meher.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="meher"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_meher.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="meher"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
