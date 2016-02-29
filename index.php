@@ -9,20 +9,11 @@
         <?php include 'includes/navigation.php'; ?>
         <!-- Teaser -->
 
-        <!---video-->
-                <video autoplay   id="bgvid" loop>
-  <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
-<source src="/wp-includes/js/Tedxdtu.webm" type="video/webm">
-</video>
-</div>
-    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-        <script src="/wp-includes/js/index.js"></script>
-
-
-<!---video-->
+        <!---video--><div>
+        
         <div class="banner" id="home">
 <!-- style="background-image: url('wp-content/uploads/sites/9/2014/10/img1.jpg')  -->
-            <div class="banner_bg" data-stellar-background-ratio="0.2"  ;"></div>
+            <div class="banner_bg" data-stellar-background-ratio="0.2"  ;></div>
             <div class="row">
                 <div class="colums small-12 medium-12-large-12">
                     <div class="center-content">
@@ -81,6 +72,16 @@
                 </div>
             </div>
         </div>
+                <video autoplay   id="bgvid" loop>
+  <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+<source src="/wp-includes/js/Tedxdtu.webm" type="video/webm">
+</video>
+</div>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src="/wp-includes/js/index.js"></script>
+</div>
+
+<!---video-->
         <div id="wplook_page_widget-2" class="pagecontent widget-content">
             <div id="pagecontent">
                 <div class="row">
