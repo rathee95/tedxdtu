@@ -2,12 +2,27 @@
 <?php $page = 'index'; ?>
 <link rel="stylesheet" type="text/css" href="/wp-includes/css/speaker_custom.css">
 <link href="css/freelancer.css" rel="stylesheet">
+<link href="/wp-includes/css/style.css" rel="stylesheet">
+
 <body class="home page page-id-2 page-template page-template-template-homepage page-template-template-homepage-php">
     <div class="wrapper">
         <?php include 'includes/navigation.php'; ?>
         <!-- Teaser -->
+
+        <!---video-->
+                <video autoplay   id="bgvid" loop>
+  <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+<source src="/wp-includes/js/Tedxdtu.webm" type="video/webm">
+</video>
+</div>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src="/wp-includes/js/index.js"></script>
+
+
+<!---video-->
         <div class="banner" id="home">
-            <div class="banner_bg" data-stellar-background-ratio="0.2" style="background-image: url('wp-content/uploads/sites/9/2014/10/img1.jpg')  ;"></div>
+<!-- style="background-image: url('wp-content/uploads/sites/9/2014/10/img1.jpg')  -->
+            <div class="banner_bg" data-stellar-background-ratio="0.2"  ;"></div>
             <div class="row">
                 <div class="colums small-12 medium-12-large-12">
                     <div class="center-content">
