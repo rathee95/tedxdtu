@@ -24,7 +24,7 @@
                                 <!-- Event Location -->
                                 <li><i class="fa fa-map-marker"></i>New Delhi, India</li>
                                 <!-- Event Date -->
-                                <li><i class="fa fa-calendar"></i>11/04/2016</li>
+                                <li><i class="fa fa-calendar"></i>April 11, 2016</li>
                                 <!-- Number of speakers -->
                                 <li><i class="fa fa-microphone"></i>10 Speakers</li>
                                 <!-- Number of Tickets remaining -->
@@ -281,7 +281,7 @@
             </div>
         </div>
 
-        
+
     <?php include 'includes/footer.html'; ?>
     <!-- /.wrapper -->
     <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>

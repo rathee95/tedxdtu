@@ -11,7 +11,7 @@
                     <li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="/#wplook_page_widget-2">About Us</a></li>
                     <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="/#speakers">Past Speakers</a></li>
                     <!-- <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="http://goo.gl/forms/tU6vltl1DQ" target="_blank">Suggest A Speaker</a></li> -->
-                    <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://blog.tedxdtu.com/" target="_blank">Blog</a></li>
+                    <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://blog.tedxdtu.com/" target="_blank">Blog</a></li> -->
                     <!-- <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/#schedule">Schedule</a></li> -->
                     <!-- <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="/#sponsors">Sponsors</a></li> -->
                     <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="https://drive.google.com/file/d/0B4lFibe8y6AQWVRGaV9rcmtfbUE/view" target="_blank">Partner with us</a></li>
@@ -29,6 +29,8 @@
                             
                         </ul>
                     </li>
+
+                    <li id="menu-item-154" class="register menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a href="http://blog.tedxdtu.com/">BLOG</a></li>
                     
                 </ul>
             </div>
