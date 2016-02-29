@@ -328,3 +328,231 @@
                 </div>
             </div>
         </div>
+
+                <!-- Speakers -->
+        <div class="speakers widget-content" id="speakers">
+            <div class="row">
+                <div class="columns small-12 medium-12 large-12">
+                    <div class="center-content">
+                        <h2> Past Speakers</h2>
+                        <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
+                            <!-- First Speacker -->
+                            <!-- Speackers -->
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_sonal.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="sonal"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Sonal Kapoor</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Protsahan India Foundation</a></div>
+                            </li>
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_archan.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="archan"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Archan Nair </a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Art Director</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_irfan.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="irfan"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Irfan Alam</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Sammann Foundation</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_vicky-roy.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="vicky"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Vicky Roy</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Photographer</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_kanth.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kanth"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Kanth Risa</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Artist</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/sid-220x220.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="sonal"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Siddharth Sharma</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Founder, Success Works</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_ishita.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="ishita"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Ishita Chaudhary</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">CEO, THE YP Foundation</a></div>
+                            </li>
+                            
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/rsz_meher.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="meher"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Meher Malik</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Dancer</a></div>
+                            </li>
+                            
+
+                            
+
+                        </ul>
+                        
+                        <!-- <div class="view-all-speakers">
+                            <a href="index.html%3Fp=22.html" title="View all Speakers" class="btn-default">View all Speakers</a>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+                <!-- Speakers -->
+        <div class="speakers widget-content" id="speakers">
+            <div class="row">
+                <div class="columns small-12 medium-12 large-12">
+                    <div class="center-content">
+                        <h2> Past Speakers</h2>
+                       <div id="rotatescroll">
+        <div class="viewport">
+            <ul class="overview">
+                <li><a href=""><img src="wp-includes/img/kanth.jpg"></a></li>
+                <li><a href=""><img src="wp-includes/img/rsz_ishita.jpg"></a></li>
+                <li><a href=""><img src="wp-includes/img/rsz_ishita.jpg"></a></li>
+                <li><a href=""><img src="wp-includes/img/rsz_ishita.jpg"></a></li>
+                <li><a href=""><img src="wp-includes/img/rsz_ishita.jpg"></a></li>
+                <li><a href=""><img src="wp-includes/img/rsz_ishita.jpg"></a></li>
+
+            </ul>
+        </div>
+
+        <div class="dot"></div>
+        <div class="overlay"></div>
+        <div class="thumb"></div>
+    </div>                        
+                        <!-- <div class="view-all-speakers">
+                            <a href="index.html%3Fp=22.html" title="View all Speakers" class="btn-default">View all Speakers</a>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>

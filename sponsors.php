@@ -24,27 +24,7 @@
                     <div class="center-content">
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
                             <!-- sponsorss -->
-                            <li id="post-44" class="item post-44 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="/%3Fp=44.html" title="Adobe typekit">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_4.jpg" width="200" height="85" alt="Adobe typekit">
-                                </a>
-                            </li>
-                            <!-- sponsorss -->
-                            <li id="post-42" class="item post-42 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="/%3Fp=42.html" title="Campaign Monitor">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_3.jpg" width="200" height="85" alt="Campaign Monitor">
-                                </a>
-                            </li>
-                            <!-- sponsorss -->
-                            <li id="post-37" class="item post-37 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="/%3Fp=37.html" title="Offscreen">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_2.jpg" width="200" height="85" alt="Offscreen">
-                                </a>
-                            </li>
-                            <!-- sponsorss -->
-                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="/%3Fp=34.html" title="Webfonts">
-                                    <img src="wp-content/uploads/sites/9/2014/10/logo_1.jpg" width="200" height="85" alt="Webfonts">
+                            <h3>Coming Soon</h3>
                                 </a>
                             </li>
                         </ul>

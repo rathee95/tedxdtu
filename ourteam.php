@@ -25,83 +25,38 @@
                             <!-- Speackers -->
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar2.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar2" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar2.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
+                                    <img width="220" height="220" src="wp-includes/img/angad.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="angad"  />
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="/%3Fp=138.html">
-                                            <i class="fa fa-user"></i>
+                                        <a href="">
+                                            <i class="fa fa-user"></i> Angad Grover
                                         </a>
-                                        <!-- Social Items -->
-                                        <a href="http://www.facebook.com/wplookthemes" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
+                                        
                                     </div>
                                 </div>
-                                <div class="name"><a href="/%3Fp=138.html">Victor Tihai</a></div>
+                                <div class="name"><a href=" ">Angad Grover</a></div>
                                 <!-- Candidate position -->
-                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Director</a></div>
+                                
                             </li>
-                            <!-- Speackers -->
-                            <li id="post-139" class="item post-139 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-manager">
+
+                            <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar1.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar1" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar1.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
+                                    <img width="220" height="220" src="wp-includes/img/laraib.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="lairab"  />
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="/%3Fp=139.html">
-                                            <i class="fa fa-user"></i>
+                                        <a href="">
+                                            <i class="fa fa-user"></i>Laraib Afroz 
                                         </a>
-                                        <!-- Social Items -->
-                                        <a href="http://wplook.ca" target="_blank">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
+                                        
                                     </div>
                                 </div>
-                                <div class="name"><a href="/%3Fp=139.html">Christophe Tauziet</a></div>
+                                <div class="name"><a href=" ">Laraib Afroz</a></div>
                                 <!-- Candidate position -->
-                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Manager</a></div>
+                                
                             </li>
-                            <!-- Speackers -->
-                            <li id="post-140" class="item post-140 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-accountant">
-                                <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar3.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar3" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar3.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
-                                    <!-- Staff media links -->
-                                    <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="/%3Fp=140.html">
-                                            <i class="fa fa-user"></i>
-                                        </a>
-                                        <!-- Social Items -->
-                                        <a href="http://www.facebook.com/wplookthemes" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="name"><a href="/%3Fp=140.html">Anthony Garand</a></div>
-                                <!-- Candidate position -->
-                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Accountant</a></div>
-                            </li>
-                            <!-- Speackers -->
-                            <li id="post-141" class="item post-141 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-accountant">
-                                <div class="avatar">
-                                    <img width="220" height="220" src="wp-content/uploads/sites/9/2014/10/avatar4.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="avatar4" srcset="http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-150x150.jpg 150w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4-60x60.jpg 60w, http://themes.wplook.com/conference/wp-content/uploads/sites/9/2014/10/avatar4.jpg 220w" sizes="(max-width: 220px) 100vw, 220px" />
-                                    <!-- Staff media links -->
-                                    <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="/%3Fp=141.html">
-                                            <i class="fa fa-user"></i>
-                                        </a>
-                                        <!-- Social Items -->
-                                        <a href="http://www.facebook.com/wplookthemes" target="_blank">
-                                            <i class="fa fa-pinterest"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="name"><a href="/%3Fp=141.html">Reza Qorbani</a></div>
-                                <!-- Candidate position -->
-                                <div class="company"><a href="/%3Fp=68.html" target="_blank">Accountant</a></div>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>

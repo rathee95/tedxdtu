@@ -14,7 +14,8 @@
                         <!-- Site title -->
                         <div class="logo">
                             <h1 id="site-title">
-                            <img src = "wp-content/uploads/sites/9/2014/10/logomain2.png">
+                            Will you be there ?
+                            <!-- <img src = "wp-content/uploads/sites/9/2014/10/logomain2.png"> -->
                         </h1>
                         </div>
                         <!-- Event Info -->
@@ -25,7 +26,7 @@
                                 <!-- Event Date -->
                                 <li><i class="fa fa-calendar"></i>11/04/2016</li>
                                 <!-- Number of speakers -->
-                                <li><i class="fa fa-microphone"></i>X Speakers</li>
+                                <li><i class="fa fa-microphone"></i>10 Speakers</li>
                                 <!-- Number of Tickets remaining -->
                                 <li><i class="fa fa-ticket"></i>100 Tickets</li>
                             </ul>
@@ -53,7 +54,7 @@
                                         </li>
 
                                         <li>
-                                            <a target="_blank" title="insta" href="http://www.nstagram.com/tedxdtu">
+                                            <a target="_blank" title="insta" href="http://www.instagram.com/tedxdtu">
                                                 <i class="fa fa-instagram"></i>Instagram</a>
                                         </li>
                                     </ul>
@@ -82,7 +83,8 @@
                 </div>
             </div>
         </div>
-        <!-- Speakers -->
+         
+                <!-- Speakers -->
         <div class="speakers widget-content" id="speakers">
             <div class="row">
                 <div class="columns small-12 medium-12 large-12">
@@ -279,6 +281,7 @@
             </div>
         </div>
 
+        
     <?php include 'includes/footer.html'; ?>
     <!-- /.wrapper -->
     <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
