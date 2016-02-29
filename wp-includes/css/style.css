@@ -26,3 +26,15 @@ video {
   opacity: 0.8;
   z-index: -1;
 }
+
+@media only screen and (max-width: 800px)
+{
+  #bgvid{
+    display: none;
+     
+  }
+
+  .banner_bg{
+    background-image: url('/wp-content/uploads/sites/9/2014/10/img1.jpg')
+  }
+}
