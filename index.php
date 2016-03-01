@@ -42,7 +42,7 @@
                         <!-- Teaser Description -->
                         <h2>
                             On April 11th 2016 at Delhi Technological University , Industry is back with another carefully curated selection of talks.<br />
-                            X Speakers will provide insights in to their work and offer ways to make us all better at what we do.
+                            10 Speakers will provide insights in to their work and offer ways to make us all better at what we do.
                         </h2>
                         <!-- Social Links -->
                         <div class="row">
