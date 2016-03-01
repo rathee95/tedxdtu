@@ -16,7 +16,7 @@
             <div class="banner_bg" data-stellar-background-ratio="0.2"  ;></div>
             <div class="row">
                 <div class="colums small-12 medium-12-large-12">
-                    <div class="center-content">
+                    <div class="center-content" clas>
                         <!-- Site title -->
                         <div class="logo">
                             <h1 id="site-title">
@@ -72,7 +72,7 @@
                 </div>
             </div>
         </div>
-                <video autoplay poster = "/wp-content/uploads/sites/9/2014/10/img1.jpg"  id="bgvid" loop>
+                <video autoplay id="bgvid" loop>
   <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
 <source src="/wp-includes/js/tedxdtu.webm" type="video/webm">
 </video>
