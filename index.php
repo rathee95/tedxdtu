@@ -72,7 +72,7 @@
                 </div>
             </div>
         </div>
-                <video autoplay   id="bgvid" loop>
+                <video autoplay poster = "/wp-content/uploads/sites/9/2014/10/img1.jpg"  id="bgvid" loop>
   <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
 <source src="/wp-includes/js/tedxdtu.webm" type="video/webm">
 </video>
