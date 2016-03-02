@@ -86,7 +86,7 @@
             <div id="pagecontent">
                 <div class="row">
                     <div class="columns small-12 medium-12 large-12">
-                        <div class="center-content">
+                        <div class="center-content" id = "aboutus">
                             <h2>About us</h2>
                             <article>
                                 <div class="entry-content">
@@ -104,7 +104,7 @@
         <div class="speakers widget-content" id="speakers">
             <div class="row">
                 <div class="columns small-12 medium-12 large-12">
-                    <div class="center-content">
+                    <div class="center-content " id="speakers1">
                         <h2> Past Speakers</h2>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
                             <!-- First Speacker -->

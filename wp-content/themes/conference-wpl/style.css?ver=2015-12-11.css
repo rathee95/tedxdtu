@@ -21770,6 +21770,7 @@ img.alignright {
 @media all and (max-width: 950px) {
   .mb .navmobile {
     display: block;
+    position: static;
     height: 50px;
   }
   .mb .navmobile a {
