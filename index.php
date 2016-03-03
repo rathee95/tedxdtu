@@ -32,9 +32,9 @@
                                 <!-- Event Date -->
                                 <li><i class="fa fa-calendar"></i>April 11, 2016</li>
                                 <!-- Number of speakers -->
-                                <li><i class="fa fa-microphone"></i>10 Speakers</li>
+                                <li><i class="fa fa-microphone"></i>10 Stories</li>
                                 <!-- Number of Tickets remaining -->
-                                <li><i class="fa fa-ticket"></i>100 Tickets</li>
+                                <li><i class="fa fa-ticket"></i>100 Experiences</li>
                             </ul>
                         </div>
                         <!-- Teaser Title -->
@@ -42,7 +42,7 @@
                         <!-- Teaser Description -->
                         <h2>
                             On April 11th 2016 at Delhi Technological University , Industry is back with another carefully curated selection of talks.<br />
-                            10 Speakers will provide insights in to their work and offer ways to make us all better at what we do.
+                            10 Speakers will provide insights into their work and offer ways to make us better at what we do.
                         </h2>
                         <!-- Social Links -->
                         <div class="row">
@@ -87,11 +87,25 @@
                 <div class="row">
                     <div class="columns small-12 medium-12 large-12">
                         <div class="center-content" id = "aboutus">
-                            <h2>About us</h2>
+                            <h2>About TEDx</h2>
                             <article>
                                 <div class="entry-content">
-                                    <p>TED stands for Technology, Entertainment, Design — three broad subject areas that are collectively shaping our world. But a TED conference is broader still, showcasing important ideas from any discipline, and exploring how they all connect. The format is fast-paced: 50+ talks over the course of a week, as well as morning and evening get-togethers. As they take in the program, attendees and speakers from vastly different fields can cross-fertilize and draw inspiration from unlikely places. This is the magic of TED.</p>
-                                    <p>TED is a global community, welcoming people from every discipline and culture who seek a deeper understanding of the world. We believe passionately in the power of ideas to change attitudes, lives and, ultimately, the world. On TED.com, we're building a clearinghouse of free knowledge from the world's most inspired thinkers — and a community of curious souls to engage with ideas and each other, both online and at TED and TEDx events around the world, all year long.</p>
+                                <h4>About TEDx, x = independently organized event</h4>
+                                    <p>
+In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)
+</p>
+<h4>
+About TED</h4>
+<p>
+TED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 30 years ago, TED has grown to support its mission with multiple initiatives. The two annual TED Conferences invite the world's leading thinkers and doers to speak for 18 minutes or less. Many of these talks are then made available, free, at TED.com. TED speakers have included Bill Gates, Jane Goodall, Elizabeth Gilbert, Sir Richard Branson, Nandan Nilekani, Philippe Starck, Ngozi Okonjo-Iweala, Sal Khan and Daniel Kahneman.
+
+The annual TED Conference takes place each spring in Vancouver, British Columbia, along with the TEDActive simulcast event in nearby Whistler. The annual TEDGlobal conference will be held this October in Rio de Janeiro, Brazil. TED's media initiatives include TED.com, where new TED Talks are posted daily; the Open Translation Project, which provides subtitles and interactive transcripts as well as translations from volunteers worldwide; the educational initiative TED-Ed. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world get help translating their wishes into action; TEDx, which supports individuals or groups in hosting local, self- organized TED-style events around the world, and the TED Fellows program, helping world-changing innovators from around the globe to amplify the impact of their remarkable projects and activities.
+<p>
+Follow TED on Twitter at <a href="http://twitter.com/TEDTalks">http://twitter.com/TEDTalks</a>, or on Facebook at <a href = "http://www.facebook.com/TED">http://www.facebook.com/TED</a>.
+</p>
+</p>
+</p>
+                                    
                                 </div>
                             </article>
                         </div>
@@ -118,10 +132,10 @@
                                         <a href="#speakers">
                                             <i class="fa fa-user"></i>
                                         </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
+                                        <a href="https://www.facebook.com/thekiranbedi/" target="_blank">
                                             <i class="fa fa-facebook"></i>
                                         </a>
-                                        <a href="https://twitter.com/" target="_blank">
+                                        <a href="https://twitter.com/thekiranbedi" target="_blank">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </div>
@@ -139,10 +153,10 @@
                                         <a href="#speakers">
                                             <i class="fa fa-user"></i>
                                         </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
+                                        <a href="https://www.facebook.com/Runa-Khan-Bangladesh-An-Excellent-Social-Entrepreneur-455579801205220/" target="_blank">
                                             <i class="fa fa-facebook"></i>
                                         </a>
-                                        <a href="https://twitter.com/" target="_blank">
+                                        <a href="https://twitter.com/runakhan_ed" target="_blank">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </div>
