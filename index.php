@@ -1,7 +1,6 @@
 <?php include 'includes/header.html'; ?>
 <?php $page = 'index'; ?>
 <link rel="stylesheet" type="text/css" href="/wp-includes/css/speaker_custom.css">
-<link href="css/freelancer.css" rel="stylesheet">
 <link href="/wp-includes/css/style.css" rel="stylesheet">
 
 <body class="home page page-id-2 page-template page-template-template-homepage page-template-template-homepage-php">
