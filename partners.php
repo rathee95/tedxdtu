@@ -32,7 +32,7 @@ $fields = array(
     "corporate_no" => array(
         "type" => "text",
         "label" => "Contact Number of the Corporate/Marketing head of company",
-        "pattern" => '[7-9]{1}[0-9]{9}'
+        "pattern" => '[0-9]{1,}'
     ),
     "corporate_email" => array(
         "type" => "email",
@@ -109,11 +109,8 @@ if ($action && $action == 'requestContact') {
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
                             <li><a href="/">Home</a></li>
-                            <li class="current">Contact</li>
+                            <li class="current">Partners</li>
                         </ul>
-                    </div>
-                    <div class="columns small-12 medium-12 large-12">
-                        <h1 class="title_blog">Contact</h1>
                     </div>
                 </div>
             </div>

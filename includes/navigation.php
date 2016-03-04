@@ -18,7 +18,7 @@
 
                     <!-- <li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="/#pricing">Buy Tickets</a></li> -->
                     <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="sponsors.php">Sponsors</a></li>
-                    <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="contacts.php" >Contact us</a></li>
+                    <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="partners.php" >Parner with us</a></li>
                     <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="#">Tickets</a></li> -->
                     
                     
