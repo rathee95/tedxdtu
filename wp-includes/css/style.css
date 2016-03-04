@@ -4,13 +4,13 @@ video {
     top: 50%;
     left: 50%;
     min-width: 100%;
-    min-height: 100%;
     width: auto;
-    height: auto;
+    
+    opacity: 0.5;
     z-index: -100;
     -webkit-transform: translateX(-50%) translateY(-50%);
             transform: translateX(-50%) translateY(-50%);
-   background-size: cover;
+   background-size: contain;
   -webkit-transition: 1s opacity;
   transition: 1s opacity;
 }
@@ -37,4 +37,20 @@ video {
   .banner_bg{
     background-image: url('/wp-content/uploads/sites/9/2014/10/img1.jpg')
   }
+}
+
+.animated.infinite {
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.bounceIn {
+    -webkit-animation-name: bounceIn;
+    animation-name: bounceIn;
+}
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
 }

@@ -1,0 +1,8 @@
+.confIntro {
+    position: relative;
+    float: left;
+    margin: 0;
+    overflow: hidden;
+    background: #222;
+    text-align: center;
+}

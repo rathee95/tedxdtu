@@ -18,69 +18,24 @@
                 </div>
             </div>
             <div class="row">
-                <div class="columns small-12 medium-9 large-9">
-                    <article id="post-131" class="list post-131 page type-page status-publish hentry">
-                        <div class="entry-content">
-                                                            <div role="form" class="wpcf7" id="wpcf7-f177-p131-o1" lang="en-US" dir="ltr">
-                                    <div class="screen-reader-response"></div>
-                                    <form action="/%3Fp=131.html#wpcf7-f177-p131-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                                        <div style="display: none;">
-                                            <input type="hidden" name="_wpcf7" value="177" />
-                                            <input type="hidden" name="_wpcf7_version" value="4.3.1" />
-                                            <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f177-p131-o1" />
-                                            <input type="hidden" name="_wpnonce" value="c0c0fca0d2" />
-                                        </div>
-                                        <p>Your Name (required)
-                                            <br />
-                                            <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
-                                        <p>Your Email (required)
-                                            <br />
-                                            <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
-                                        <p>Subject
-                                            <br />
-                                            <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </p>
-                                        <p>Your Message
-                                            <br />
-                                            <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
-                                        <p>
-                                            <input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" />
-                                        </p>
-                                        <div class="wpcf7-response-output wpcf7-display-none"></div>
-                                    </form>
-                                </div>
-                            </p>
-                        </div>
-                    </article>
-                </div>
+                
                 <!-- Right Sidebar -->
                 <div id="secondary" class="columns small-12 medium-3 large-3 sidebar_widgets">
                     <aside id="text-6" class="widget widget_text">
                         <div class="widget-title">
                             <h3>Say Hello!</h3></div>
-                        <div class="textwidget">Delhi Technological University , Near Sector 18 ,Rohini , New Delhi-110042 Phone: 09582135023 E-mail: contact@tedxdtu.com </div>
+                        <div class="textwidget">Delhi Technological University , Near Sector 18 ,Rohini , New Delhi-110042 </div>
+                        <div class="textwidget"> Phone: 08860865760 </div>
+                        <div class="textwidget"> E-mail: contact@tedxdtu.com  </div>
+                        
+                      
                     </aside>
-                </div>
+            <h4><a href="https://drive.google.com/open?id=0B4lFibe8y6AQZGlvdmRqZGR4cWs" target="_blank">Partner with us </a></h4>
             </div>
         </div>
         <?php include 'includes/footer.html'; ?>
     </div>
-    <!-- /.wrapper -->
-    <script type='text/javascript' src='wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
-    <script type='text/javascript'>
-    /* <![CDATA[ */
-    var _wpcf7 = {
-        "loaderUrl": "http:\/\/themes.wplook.com\/conference\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif",
-        "recaptchaEmpty": "Please verify that you are not a robot.",
-        "sending": "Sending ..."
-    };
-    /* ]]> */
-    </script>
-    <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js%3Fver=4.3.1'></script>
-    <script type='text/javascript' src='wp-content/themes/conference-wpl/assets/javascript/app.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-content/themes/conference-wpl/assets/javascript/vendor.js%3Fver=4.4.2'></script>
-    <script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=4.4.2'></script>
+    
 </body>
 
 </html>

@@ -45,9 +45,9 @@
                             10 Speakers will provide insights into their work and offer ways to make us better at what we do.
                         </h2>
                         <!-- Social Links -->
-                        <div class="row">
-                            <div class="large-6 small-centered columns">
-                                <div class="event-social">
+                        <div class="row"  >
+                            <div class="large-6 small-centered columns ">
+                                <div class="event-social" >
                                     <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3">
                                         <li>
                                             <a target="_blank" title="Twitter" href="https://twitter.com/tedxdtu">
@@ -74,7 +74,7 @@
         </div>
                 <video autoplay id="bgvid" loop>
   <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
-<source src="/wp-includes/js/tedxdtu.webm" type="video/webm">
+<source src="/wp-includes/js/tedxdtu1.mp4" poster="/wp-includes/js/vidimg.jpg" type="video/webm">
 </video>
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
@@ -82,6 +82,10 @@
 </div>
 
 <!---video-->
+
+
+
+
         <div id="wplook_page_widget-2" class="pagecontent widget-content">
             <div id="pagecontent">
                 <div class="row">
@@ -101,7 +105,7 @@ TED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a f
 
 The annual TED Conference takes place each spring in Vancouver, British Columbia, along with the TEDActive simulcast event in nearby Whistler. The annual TEDGlobal conference will be held this October in Rio de Janeiro, Brazil. TED's media initiatives include TED.com, where new TED Talks are posted daily; the Open Translation Project, which provides subtitles and interactive transcripts as well as translations from volunteers worldwide; the educational initiative TED-Ed. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world get help translating their wishes into action; TEDx, which supports individuals or groups in hosting local, self- organized TED-style events around the world, and the TED Fellows program, helping world-changing innovators from around the globe to amplify the impact of their remarkable projects and activities.
 <p>
-Follow TED on Twitter at <a href="http://twitter.com/TEDTalks">http://twitter.com/TEDTalks</a>, or on Facebook at <a href = "http://www.facebook.com/TED">http://www.facebook.com/TED</a>.
+Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank" >http://twitter.com/TEDTalks</a>, or on Facebook at <a href = "http://www.facebook.com/TED" target="_blank ">http://www.facebook.com/TED</a>.
 </p>
 </p>
 </p>
@@ -119,31 +123,12 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks">http://twitter.co
             <div class="row">
                 <div class="columns small-12 medium-12 large-12">
                     <div class="center-content " id="speakers1">
-                        <h2> Past Speakers</h2>
+                        <h2> Past Speakers 2011</h2>
+
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
                             <!-- First Speacker -->
                             <!-- Speackers -->
-                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
-                                <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/img/rsz_kiran.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kiran"  />
-                                    <!-- Speaker media links -->
-                                    <div class="social">
-                                        <!-- Speacker profile / blog url -->
-                                        <a href="#speakers">
-                                            <i class="fa fa-user"></i>
-                                        </a>
-                                        <a href="https://www.facebook.com/thekiranbedi/" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                        <a href="https://twitter.com/thekiranbedi" target="_blank">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="name"><a href="#speakers">Kiran Bedi</a></div>
-                                <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Ex-IPS Officer</a></div>
-                            </li>
+                            
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img/rsz_aaa.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="runa"  />
@@ -165,6 +150,32 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks">http://twitter.co
                                 <!-- Speaker company -->
                                 <div class="company"><a href="#speakers">Friendship Bangladesh</a></div>
                             </li>
+
+
+
+                            <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_kanth.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kanth"  />
+                                    <!-- Speaker media links -->
+                                    <div class="social">
+                                        <!-- Speacker profile / blog url -->
+                                        <a href="#speakers">
+                                            <i class="fa fa-user"></i>
+                                        </a>
+                                        <a href="https://www.facebook.com/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://twitter.com/" target="_blank">
+                                            <i class="fa fa-twitter"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="name"><a href="#speakers">Kanth Risa</a></div>
+                                <!-- Speaker company -->
+                                <div class="company"><a href="#speakers">Artist</a></div>
+                            </li>
+                            
+
                             
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
@@ -210,28 +221,40 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks">http://twitter.co
                                 <div class="company"><a href="#speakers">Swasth India</a></div>
                             </li>
                             
+                            
+                            
+
+                            
+
+                        </ul>
+
+                        <h2> Past Speakers 2012</h2>
+                        
+                        <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
+                            <!-- First Speacker -->
+                            <!-- Speackers -->
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
-                                    <img width="220" height="220" src="wp-includes/img/img/rsz_kanth.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kanth"  />
+                                    <img width="220" height="220" src="wp-includes/img/img/rsz_kiran.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="kiran"  />
                                     <!-- Speaker media links -->
                                     <div class="social">
                                         <!-- Speacker profile / blog url -->
                                         <a href="#speakers">
                                             <i class="fa fa-user"></i>
                                         </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
+                                        <a href="https://www.facebook.com/thekiranbedi/" target="_blank">
                                             <i class="fa fa-facebook"></i>
                                         </a>
-                                        <a href="https://twitter.com/" target="_blank">
+                                        <a href="https://twitter.com/thekiranbedi" target="_blank">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </div>
                                 </div>
-                                <div class="name"><a href="#speakers">Kanth Risa</a></div>
+                                <div class="name"><a href="#speakers">Kiran Bedi</a></div>
                                 <!-- Speaker company -->
-                                <div class="company"><a href="#speakers">Artist</a></div>
+                                <div class="company"><a href="#speakers">Ex-IPS Officer</a></div>
                             </li>
-                            
+
                             <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img/rsz_nitin.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="nitin"  />
@@ -309,8 +332,9 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks">http://twitter.co
                     </div>
                 </div>
             </div>
-        </div>
 
+
+        </div>
 
     <?php include 'includes/footer.html'; ?>
     <!-- /.wrapper -->
