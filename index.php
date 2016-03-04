@@ -24,6 +24,8 @@
                             <!-- <img src = "wp-content/uploads/sites/9/2014/10/logomain2.png"> -->
                         </h1>
                         </div>
+
+
                         <!-- Event Info -->
                         <div class="event-info">
                             <ul class="small-block-grid-1 medium-block-grid-2">
@@ -40,6 +42,7 @@
                         <!-- Teaser Title -->
                         <h1>Join us for a day of exploration and inspiration</h1>
                         <!-- Teaser Description -->
+                        <br>
                         <h2>
                             On April 11th 2016 at Delhi Technological University , Industry is back with another carefully curated selection of talks.<br />
                             10 Speakers will provide insights into their work and offer ways to make us better at what we do.
@@ -72,9 +75,9 @@
                 </div>
             </div>
         </div>
-                <video autoplay id="bgvid" loop>
+                <video autoplay  loop><!--id="bgvid"-->
   <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
-<source src="/wp-includes/js/tedxdtu1.mp4" poster="/wp-includes/js/vidimg.jpg" type="video/webm">
+<source src="/wp-includes/js/tedxdtu1.mp4" poster="/wp-includes/js/vidimg.jpg" type="video/mp4">
 </video>
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
@@ -86,7 +89,7 @@
 
 
 
-        <div id="wplook_page_widget-2" class="pagecontent widget-content">
+        <div id="wplook_page_widget-2" style ="background-color: white"class="pagecontent widget-content">
             <div id="pagecontent">
                 <div class="row">
                     <div class="columns small-12 medium-12 large-12">
@@ -119,7 +122,7 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank" >
         </div>
          
                 <!-- Speakers -->
-        <div class="speakers widget-content" id="speakers">
+        <div class="speakers widget-content" style ="background-color: white" id="speakers">
             <div class="row">
                 <div class="columns small-12 medium-12 large-12">
                     <div class="center-content " id="speakers1">
