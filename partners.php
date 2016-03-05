@@ -109,7 +109,7 @@ if ($action && $action == 'requestContact') {
                     <div class="columns small-12 medium-12 large-12">
                         <ul class="breadcrumbs">
                             <li><a href="/">Home</a></li>
-                            <li class="current">Partners</li>
+                             <li class="current">Partners</li>
                         </ul>
                     </div>
                 </div>
@@ -162,7 +162,7 @@ if ($action && $action == 'requestContact') {
                     <div class="textwidget"> Phone: 08860865760 </div>
                     <div class="textwidget"> E-mail: contact@tedxdtu.com </div>
                 </aside>
-                <!-- <h4><a href="https://drive.google.com/open?id=0B4lFibe8y6AQZGlvdmRqZGR4cWs" target="_blank">Partner with us </a></h4> -->
+                <a href="https://drive.google.com/open?id=0B4lFibe8y6AQZGlvdmRqZGR4cWs" class="button" target = "_blank">Brochure</a>
             </div>
         </div>
     </div>

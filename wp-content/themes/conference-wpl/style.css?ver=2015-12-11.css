@@ -21964,7 +21964,7 @@ img.alignright {
 }
 
 .mini_header .mini_header_bg {
-  opacity: 0.2;
+  opacity: 1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=" 20 ")";
   filter: alpha(opacity=20);
   zoom: 1;

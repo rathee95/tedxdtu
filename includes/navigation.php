@@ -3,7 +3,7 @@
         <div class="columns small-12 medium-12 large-12">
             <div class="mb">
                 <div class="navmobile">
-                    <a href="/"></a>
+                    <a href="index.php"></a>
                 </div>
                 <ul id="menu-main-menu-homepage" class="menu">
                     <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-71"><a href="/"><img src ="wp-content/uploads/sites/9/2014/10/logo.png"></a></li>
@@ -17,9 +17,10 @@
                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="ourteam.php"> Our Team</a></li>
 
                     <!-- <li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="/#pricing">Buy Tickets</a></li> -->
-                    <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="sponsors.php">Sponsors</a></li>
                     <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76"><a href="partners.php" >Parner with us</a></li>
-                    <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="#">Tickets</a></li> -->
+
+                    <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="sponsors.php">Sponsors</a></li>
+                                        <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="#">Tickets</a></li> -->
                     
                     
                             
@@ -39,7 +40,7 @@
 </div>
 <?php if (!isset($page)): ?>
     <div class="mini_header">
-        <div class="mini_header_bg"></div>
+        <div class="mini_header_bg " style="background-color: black"></div>
         <div class="row">
             <div class="columns small-12 medium-12 large-12" >
                 <div class="logo" >
