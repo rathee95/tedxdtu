@@ -43,7 +43,7 @@
                         <!-- Teaser Description -->
                         <br>
                         <h2>
-                            On April 11th 2016 at Delhi Technological University , Industry is back with another carefully curated selection of talks.<br />
+                            On April 11th 2016 at Delhi Technological University , We are back with another carefully curated selection of talks.<br />
                             10 Speakers will provide insights into their work and offer ways to make us better at what we do.
                         </h2>
                         <!-- Social Links -->
@@ -74,7 +74,7 @@
                 </div>
             </div>
         </div>
-                <video autoplay  poster="/wp-includes/js/vidimg.jpg" loop><!--id="bgvid"-->
+                <video autoplay  poster="/wp-includes/js/vidimg.jpg" loop id="bgvid" >
   <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
 <source src="/wp-includes/js/tedxdtu1.mp4"  type="video/mp4">
 </video>
@@ -266,10 +266,10 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank" >
                                         <a href="#speakers">
                                             <i class="fa fa-user"></i>
                                         </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
+                                        <a href="https://www.facebook.com/Nitin.Rivaldo/" target="_blank">
                                             <i class="fa fa-facebook"></i>
                                         </a>
-                                        <a href="https://twitter.com/" target="_blank">
+                                        <a href="https://twitter.com/Nitin_Rivaldo" target="_blank">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </div>
@@ -288,10 +288,10 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank" >
                                         <a href="#speakers">
                                             <i class="fa fa-user"></i>
                                         </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
+                                        <a href="https://www.facebook.com/durjoydatta1/" target="_blank">
                                             <i class="fa fa-facebook"></i>
                                         </a>
-                                        <a href="https://twitter.com/" target="_blank">
+                                        <a href="https://twitter.com/durjoydatta" target="_blank">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </div>
@@ -310,12 +310,10 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank" >
                                         <a href="#speakers">
                                             <i class="fa fa-user"></i>
                                         </a>
-                                        <a href="https://www.facebook.com/" target="_blank">
+                                        <a href="https://www.facebook.com/themehermalik/" target="_blank">
                                             <i class="fa fa-facebook"></i>
                                         </a>
-                                        <a href="https://twitter.com/" target="_blank">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
+                                        
                                     </div>
                                 </div>
                                 <div class="name"><a href="#speakers">Meher Malik</a></div>
