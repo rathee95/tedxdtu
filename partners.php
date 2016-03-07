@@ -164,7 +164,7 @@ if ($action && $action == 'requestContact') {
                             <div class="textwidget"> Phone: 08860865760 </div>
                             <div class="textwidget"> E-mail: contact@tedxdtu.com </div>
                         </aside>
-                        <a href="https://drive.google.com/open?id=0B4lFibe8y6AQZGlvdmRqZGR4cWs" class="button" target="_blank">Brochure</a>
+                        <a href="https://drive.google.com/file/d/0B4lFibe8y6AQTXJtaTlNWTZra00/view?usp=sharing" class="button" target="_blank">Brochure</a>
                     </div>
                 </div>
             </div>
