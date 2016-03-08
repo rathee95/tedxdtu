@@ -4,12 +4,21 @@
 <link href="/wp-includes/css/style.css" rel="stylesheet">
 
 <body class="home page page-id-2 page-template page-template-template-homepage page-template-template-homepage-php">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
     <div class="wrapper">
         <?php include 'includes/navigation.php'; ?>
         <!-- Teaser -->
 
         <!---video--><div>
-        
+
         <div class="banner" id="home">
 <!-- style="background-image: url('wp-content/uploads/sites/9/2014/10/img1.jpg')  -->
             <div class="banner_bg" data-stellar-background-ratio="0.2"  ;></div>
@@ -84,7 +93,6 @@
 </div>
 
 <!---video-->
-
 
 
 
@@ -337,6 +345,12 @@ Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank" >
 
         </div>
 
+    <div class="fb-like small-12 medium-4 large-4" data-href="https://www.facebook.com/tedxdtu" data-show-faces="false" data-layout="standard" data-action="like"  data-share="true"></div>
+    
+<a href="https://twitter.com/tedxdtu" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @tedxdtu</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+        
     <?php include 'includes/footer.html'; ?>
     <!-- /.wrapper -->
     <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
