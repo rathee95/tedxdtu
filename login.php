@@ -250,8 +250,8 @@ EMAILBODY;
 
                                         <div class="row"><a href="https://drive.google.com/file/d/0B4lFibe8y6AQTXJtaTlNWTZra00/view?usp=sharing" class="wpcf7-submit" target="_blank">Brochure</a></div><br>
 
-                                        <p style="text-align:center;margin-bottom:20px">
-<img src="/wp-content/uploads/sites/9/2014/10/process_explained.png" style="width: 100%;height:auto;">
+                                        <p style="text-align:center;margin-bottom:20px;">
+<img src="/wp-content/uploads/sites/9/2014/10/process_explained.png" style=" border: 1px;width: 80%;height:auto;">
 </p>
 
                                     </div>
@@ -302,12 +302,11 @@ EMAILBODY;
                                                         <br />
                                                         <span><!--not rerquired-->
                                                 <input type="text" name="profession" value="" size="40" /></span> </p>
-                                                    <p> Share with us 3 of your interests. Hobbies, academics, the choice lies with you. After all, its going up on your badge. 
+                                                    <p> Share with us 2 of your interests. Hobbies, academics, the choice lies with you. After all, its going up on your badge. 
                                                         <br />
                                                         <span>
                                             <input type="text" name="interests1"  value="">
                                             <input type="text" name="interests2"  value="">
-                                            <input type="text" name="interests3"  value="">
                                                 </span> </p>
                                                     <p>Food preference *
                                                         <br />
@@ -326,7 +325,7 @@ EMAILBODY;
                                                         <br />
                                                         <span>
                                                 <textarea name="message" value ="WHY ME ?"  placeholder ="WHY ME?"cols="40" rows="10" ></textarea></span> </p>
-                                                    <p>Have you attended TEDX before? * 
+                                                    <p>Have you attended TEDx before? * 
                                                         <br />
                                                         <span>
                                                 <input type="radio" name="Ques" value="yes" size="40" />YES
