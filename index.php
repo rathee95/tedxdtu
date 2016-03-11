@@ -37,7 +37,7 @@
                                     <!-- Event Location -->
                                     <li><i class="fa fa-map-marker"></i>New Delhi, India</li>
                                     <!-- Event Date -->
-                                    <li><i class="fa fa-calendar"></i>April 11, 2016</li>
+                                    <li><i class="fa fa-calendar"></i>April 2016</li>
                                     <!-- Number of speakers -->
                                     <li><i class="fa fa-microphone"></i>10 Stories</li>
                                     <!-- Number of Tickets remaining -->
@@ -49,7 +49,7 @@
                             <!-- Teaser Description -->
                             <br>
                             <h2>
-                            On April 11th 2016 at Delhi Technological University , We are back with another carefully curated selection of talks.<br />
+                            April 2016 at Delhi Technological University, we are back with another carefully curated selection of talks.<br />
                             10 Speakers will provide insights into their work and offer ways to make us better at what we do.
                         </h2>
                             <!-- Social Links -->
@@ -90,13 +90,13 @@
     <div id="wplook_page_widget-2" style="background-color: white" class="pagecontent widget-content">
         <div id="pagecontent">
             <div class="row">
-                <div class="row ">
+                <!-- <div class="row ">
                     <div class="center-content">
                         <a href="/login.php" target="_blank">
                             <button id="button1">Register in a heartbeat</button>
                             </a>
                     </div>
-                </div>
+                </div> -->
                 <div class="row">
                     <div class="columns small-12 medium-12 large-12">
                         <div class="center-content" id="aboutus">
@@ -105,12 +105,12 @@
                                 <div class="entry-content">
                                     <p>
                                         About TEDx, x = independently organized event
-                                        <br> In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)
+                                        <br> In the spirit of &quot;Ideas worth spreading&quot;, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks, video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)
                                     </p>
                                     <h4>
 About TED</h4>
                                     <p>
-                                        TED is a nonprofit organization devoted to Ideas Worth Spreading. Started as a four-day conference in California 30 years ago, TED has grown to support its mission with multiple initiatives. The two annual TED Conferences invite the world's leading thinkers and doers to speak for 18 minutes or less. Many of these talks are then made available, free, at TED.com. TED speakers have included Bill Gates, Jane Goodall, Elizabeth Gilbert, Sir Richard Branson, Nandan Nilekani, Philippe Starck, Ngozi Okonjo-Iweala, Sal Khan and Daniel Kahneman. The annual TED Conference takes place each spring in Vancouver, British Columbia, along with the TEDActive simulcast event in nearby Whistler. The annual TEDGlobal conference will be held this October in Rio de Janeiro, Brazil. TED's media initiatives include TED.com, where new TED Talks are posted daily; the Open Translation Project, which provides subtitles and interactive transcripts as well as translations from volunteers worldwide; the educational initiative TED-Ed. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world get help translating their wishes into action; TEDx, which supports individuals or groups in hosting local, self- organized TED-style events around the world, and the TED Fellows program, helping world-changing innovators from around the globe to amplify the impact of their remarkable projects and activities.
+                                        TED is a nonprofit organization devoted to &quot;Ideas Worth Spreading&quot;. Started as a four-day conference in California 30 years ago, TED has grown to support its mission with multiple initiatives. The two annual TED Conferences invite the world's leading thinkers and doers to speak for 18 minutes or less. Many of these talks are then made available, free, at TED.com. TED speakers have included Bill Gates, Jane Goodall, Elizabeth Gilbert, Sir Richard Branson, Nandan Nilekani, Philippe Starck, Ngozi Okonjo-Iweala, Sal Khan and Daniel Kahneman. The annual TED Conference takes place each spring in Vancouver, British Columbia, along with the TEDActive simulcast event in nearby Whistler. The annual TEDGlobal conference will be held this October in Rio de Janeiro, Brazil. TED's media initiatives include TED.com, where new TED Talks are posted daily; the Open Translation Project, which provides subtitles and interactive transcripts as well as translations from volunteers worldwide; the educational initiative TED-Ed. TED has established the annual TED Prize, where exceptional individuals with a wish to change the world get help translating their wishes into action; TEDx, which supports individuals or groups in hosting local, self- organized TED-style events around the world, and the TED Fellows program, helping world-changing innovators from around the globe to amplify the impact of their remarkable projects and activities.
                                         <p>
                                             Follow TED on Twitter at <a href="http://twitter.com/TEDTalks" target="_blank">http://twitter.com/TEDTalks</a>, or on Facebook at <a href="http://www.facebook.com/TED" target="_blank ">http://www.facebook.com/TED</a>.
                                         </p>
