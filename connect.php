@@ -1,10 +1,10 @@
 <?php
-$servername = "mysql.hostinger.in";
-$username = "u370679023_haris";
-$password = "burnsagenda";
+$servername = "localhost";
+$username = "tedxdtu";
+$password = "tedxdtu2016@123@";
 
 // Create connection
-$conn = new mysqli($servername, $username, $password,"u370679023_txd");
+$conn = new mysqli($servername, $username, $password,"tedxdtu");
 
 // Check connection
 if ($conn->connect_error) {

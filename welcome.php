@@ -1,10 +1,14 @@
-<?php include "includes".DIRECTORY_SEPARATOR."header.html"; ?>
+<?php require_once ("includes".DIRECTORY_SEPARATOR."header.php");?>
 <?php require_once("includes".DIRECTORY_SEPARATOR."initialize.php") ?>
 <?php
+    //ini_set('display_errors', 1);
     if(isset($_GET["logout"])){
         $session->logout();
+        setcookie("PHPSESSID","",time()-2000);
+        //session_destroy();
         header("Location: login.php");
-    }
+        die();
+     }
     if($session->is_logged_in())
     {
         $userid = $session->user_id;
@@ -12,6 +16,7 @@
         $user = $user->findByUsername($userid);
         if(empty($user))
         {
+            setcookie("PHPSESSID","",time()-2000);
             header("Location: login.php");
             exit;
         }
@@ -22,10 +27,13 @@
                     break;
             case 2: $status = "Rejected";
                     break;
+            default: $status = "Pending";
+                     break;
         }
 
     }else
     {
+        setcookie("PHPSESSID","",time()-2000);
         header("Location: login.php");
     }
 ?>
@@ -48,6 +56,9 @@
                             <br>
                             <div class="row"><a href="https://drive.google.com/file/d/0B4lFibe8y6AQTXJtaTlNWTZra00/view?usp=sharing" class="wpcf7-submit" target="_blank">Brochure</a></div>
                             <br>
+                            <div class="row"><a href="https://drive.google.com/file/d/0B4lFibe8y6AQdWxOWmRCTy02Uk0/view?usp=sharing" class="wpcf7-submit" target="_blank">Delegation Booklet</a></div>
+                            <br>
+                            
                             <p style="text-align:center;margin-bottom:20px;">
                                 <img src="/wp-content/uploads/sites/9/2014/10/process_explained.png" style=" border: 1px;width: 80%;height:auto;">
                             </p>
@@ -77,8 +88,8 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><a href="http://tedxdtu.com" title="TEDxDtu 2016">TEDxDTU 2016</a></td>
-                                    <td>11.04.2016</td>
+                                    <td>TEDxDTU 2016</td>
+                                    <td>18.04.2016</td>
                                     <td>1</td>
                                     <td>
                                         <?php echo $status ?></td>

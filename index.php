@@ -37,7 +37,7 @@
                                     <!-- Event Location -->
                                     <li><i class="fa fa-map-marker"></i>New Delhi, India</li>
                                     <!-- Event Date -->
-                                    <li><i class="fa fa-calendar"></i>April 2016</li>
+                                    <li><i class="fa fa-calendar"></i>April 18,2016</li>
                                     <!-- Number of speakers -->
                                     <li><i class="fa fa-microphone"></i>10 Stories</li>
                                     <!-- Number of Tickets remaining -->
@@ -90,13 +90,13 @@
     <div id="wplook_page_widget-2" style="background-color: white" class="pagecontent widget-content">
         <div id="pagecontent">
             <div class="row">
-                <!-- <div class="row ">
+                <div class="row ">
                     <div class="center-content">
                         <a href="/login.php" target="_blank">
                             <button id="button1">Register in a heartbeat</button>
                             </a>
                     </div>
-                </div> -->
+                </div>
                 <div class="row">
                     <div class="columns small-12 medium-12 large-12">
                         <div class="center-content" id="aboutus">

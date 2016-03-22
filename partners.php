@@ -4,7 +4,7 @@ $emails = array(
 );
 
 $file = dirname(__FILE__) . '/includes/response.csv';
-
+include 'connect.php';
 $fields = array(
     "company" => array(
         "type" => "text",
@@ -81,8 +81,21 @@ if ($action && $action == 'requestContact') {
             $errors[$key] = "This field is required";
         }
     }
+    $name=$_POST['company'];
+    $desc=$_POST['company_profile'];
+    $link=$_POST['company_website'];
+    $head=$_POST['corporate_head'];
+    $contact=$_POST['corporate_no'];
+    $cemail=$_POST['corporate_email'];
+    $type=$_POST['sponsorship'];
+    $incen=$_POST['incentives'];
+    $sql = "INSERT INTO `partners` (`name`, `description`, `link`, `contact`, `headname`, `email`, `type`, `incentives`)
+    VALUES ('$name', '$desc', '$link', '$number', '$head', '$cemail', '$type', '$incen');";
     
-    $headers = "MIME-Version: 1.0\r\n";
+if ($conn->query($sql) === TRUE) {
+} else {
+}
+     $headers = "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/html; charset=utf-8\r\n";
     if (empty($errors)) {
         init_csv($file, $fields);
@@ -147,7 +160,7 @@ if ($action && $action == 'requestContact') {
                                         </p>
                                         <?php endforeach ?>
                                         <input type="hidden" name="action" value="requestContact">
-                                        <button type="submit">Submit</button>
+                                        <button type="submit" class="wpcf7-submit" >Submit</button>
                                         <div class="wpcf7-response-output wpcf7-display-none"></div>
                                     </form>
                                 </div>
@@ -164,7 +177,7 @@ if ($action && $action == 'requestContact') {
                             <div class="textwidget"> Phone: 08860865760 </div>
                             <div class="textwidget"> E-mail: contact@tedxdtu.com </div>
                         </aside>
-                        <a href="https://drive.google.com/file/d/0B4lFibe8y6AQTXJtaTlNWTZra00/view?usp=sharing" class="button" target="_blank">Brochure</a>
+                        <a href="https://drive.google.com/file/d/0B4lFibe8y6AQTXJtaTlNWTZra00/view?usp=sharing" class="wpcf7-submit" target="_blank">Brochure</a>
                     </div>
                 </div>
             </div>

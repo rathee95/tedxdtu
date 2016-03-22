@@ -26,13 +26,15 @@
                     <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://blog.tedxdtu.com/" target="_blank">Blog</a></li> -->
                     <!-- <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/#schedule">Schedule</a></li> -->
                     <!-- <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="/#sponsors">Sponsors</a></li> -->
-                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="ourteam.php"> Our Team</a></li>
-                    <!--<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="login.php"> Register</a></li>-->
+                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/ourteam.php"> Our Team</a></li>
+                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/register"> Register</a></li>
+                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/login"> Login</a></li>
+
 
                     <!-- <li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="/#pricing">Buy Tickets</a></li> -->
                     <!-- <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="sponsors.php">Sponsors</a></li> -->
 
-                    <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="partners.php" >Partner with us</a></li>
+                    <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="/partners.php" >Partner with us</a></li>
 
                     
                     
@@ -63,9 +65,10 @@
                     </h1>
                 </div>
                 <div class="sub-logo">
-                    <h2 id="site-description">April 2016</h2>
+                    <h2 id="site-description">April 18, 2016</h2>
                 </div>
             </div>
         </div>
     </div>
 <?php endif ?>
+

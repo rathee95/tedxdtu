@@ -19,7 +19,7 @@ class User extends DatabaseObject {
 	public $university;
 	public $interests1;
 	public $interests2;
-	public $interests3;
+	public $insta;
 	public $food;
 	public $knowus;
 	public $ques;
@@ -29,8 +29,8 @@ class User extends DatabaseObject {
 	protected static $db_fields = array('username' , 'id' , 'first_name' , 
 										'last_name' , 'password','status',
 										'created_on','note','profession',
-										'middle_name','phone','university',
-										'interests1','interests2','interests3',
+										'middle_name','phone','university','insta',
+										'interests1','interests2',
 										'food','knowus','ques','social1','social2'
 										);
 

@@ -1,8 +1,9 @@
-<?php include "includes".DIRECTORY_SEPARATOR."header.html"; ?>
+<?php require_once ("includes".DIRECTORY_SEPARATOR."header.php");?>
 <?php require_once("includes".DIRECTORY_SEPARATOR."initialize.php") ?>
 <?php
+ini_set('display_errors', 1);
 //set_time_limit(300);
-ini_set("max_execution_time",300);
+//ini_set("max_execution_time",300);
 //var_dump(ini_get("max_execution_time"));
 date_default_timezone_set("Asia/Kolkata");
 require_once("includes".DIRECTORY_SEPARATOR."phpmailer".DIRECTORY_SEPARATOR."class.phpmailer.php");
@@ -11,6 +12,7 @@ require_once("includes".DIRECTORY_SEPARATOR."phpmailer".DIRECTORY_SEPARATOR."lan
 ?>
 <?php
     if($session->is_logged_in()){
+        $session->logout();
         header("Location: welcome.php");
     }
 ?>
@@ -32,6 +34,10 @@ When you are approved by the screening team you'll be able to grab your ticket f
 
 You can check status of your registration here (Logging in using credentials given below) :
 http://tedxdtu.com/login.php
+
+You can download the Pre-event Delegation Booklet here :
+
+https://drive.google.com/file/d/0B4lFibe8y6AQdWxOWmRCTy02Uk0/view?usp=sharing
 
 Information will also be published under the URL above.
 
@@ -136,6 +142,10 @@ EMAILBODY;
             $message2 .= "<li>Enter your Contact Number in the Phone No. Field</li><br />";
             $flag = false;
         }
+        if(empty($_POST["social1"])){
+            $message2 .= "<li>Kindly Enter your Facebook or other Social Profile, One Online Profile is compulsory</li><br />";
+            $flag = false;
+        }
         if(empty($_POST["university"])){
             $message2 .= "<li>Kindly Enter your University</li><br />";
             $flag = false;
@@ -206,7 +216,7 @@ EMAILBODY;
                 $user->university = $database->escape_value($_POST["university"]);
                 $user->interests1 =$database->escape_value($_POST["interests1"]);
                 $user->interests2 =$database->escape_value($_POST["interests2"]);
-                $user->interests3 =$database->escape_value($_POST["interests3"]);
+                $user->insta =$database->escape_value($_POST["insta"]);
                 $user->food = $food;
                 $user->social1 = $database->escape_value($_POST["social1"]);
                 $user->social2 = $database->escape_value($_POST["social2"]);
@@ -266,7 +276,7 @@ EMAILBODY;
                             <div class="columns small-12 medium-9 large-9">
                                 <article id="post-131" class="list post-131 page type-page status-publish hentry">
                                     <div class="entry-content">
-                                        <h2>Registrations will open soon</h2> 
+                                        <h2>Registrations are open</h2> 
                                         <p>If you wish to attend, register here. Please note that TEDxDTU has limited seats and your admission ticket will be a direct result of the following application form.
 
                                             <br />
@@ -281,70 +291,72 @@ EMAILBODY;
                                                         <p class="small-12 mediun-4 large-4">First Name *
                                                             <br />
                                                             <span>
-                                                <input type="text" name="name" value="" size="40" disabled/></span> </p>
+                                                <input type="text" name="name" value="" size="40" /></span> </p>
                                                         <p class=" small-12  mediun-4 large-4">Middle Name
                                                             <br />
                                                             <span><!--NOT required-->
-                                                <input type="text" name="middle-name" value="" size="40"  disabled/></span> </p>
+                                                <input type="text" name="middle-name" value="" size="40"  /></span> </p>
                                                         <p class=" small-12 mediun-4 large-4">Last Name *
                                                             <br />
                                                             <span>
-                                                <input type="text" name="last-name" value="" size="40"  disabled/></span> </p>
+                                                <input type="text" name="last-name" value="" size="40"  /></span> </p>
                                                     </div>
                                                     <p class="small-12 mediun-4 large-4">Phone No: *
                                                         <br />
                                                         <span>
-                                                <input type="text" name="phone" value="" size="40" disabled/></span> </p>
+                                                <input type="text" name="phone" value="" size="40" /></span> </p>
                                                     <p class="small-12 mediun-4 large-4">Email ID *
                                                         <br />
                                                         <span>
-                                                <input type="email" name="email" value="" size="40" disabled/></span> </p>
+                                                <input type="email" name="email" value="" size="40" /></span> </p>
                                                     <p>Institution *
                                                         <br />
                                                         <span>
-                                                <input type="text" name="university" value="" size="40" disabled/></span> </p>
+                                                <input type="text" name="university" value="" size="40" ></span> </p>
                                                     <p>Designation
                                                         <br />
                                                         <span><!--not rerquired-->
-                                                <input type="text" name="profession" value="" size="40" disabled/></span> </p>
+                                                <input type="text" name="profession" value="" size="40" /></span> </p>
                                                     <p> Share with us 2 of your interests. Hobbies, academics, the choice lies with you. After all, it's going up on your badge.
                                                         <br />
                                                         <span>
-                                            <input type="text" name="interests1"  value="" disabled />
-                                            <input type="text" name="interests2"  value="" disabled />
+                                            <input type="text" name="interests1"  value=""  />
+                                            <input type="text" name="interests2"  value=""  />
                                                 </span> </p>
                                                     <p>Food preference *
                                                         <br />
                                                         <span>
-                                                <input type="radio" name="food" value="Veg" disabled/> Vegetarian<br>  <input type="radio" name="food" value="non-veg" disabled/> Non-vegetarian<br>
+                                                <input type="radio" name="food" value="Veg" /> Vegetarian<br>  <input type="radio" name="food" value="non-veg" /> Non-vegetarian<br>
 
                                                 </span> </p>
                                                     <p> The age of social media comes with some prerequisites. Attach Social Profile.
                                                         <br />
                                                         <!--not required-->
                                                         <span>
-                                            <input type="text" name="social1"  placeholder="Facebook" disabled/>
-                                            <input type="text" name="social2"  placeholder="Linkedin" disabled/>
+                                            <input type="text" name="social1"  placeholder="Facebook" />
+                                            <input type="text" name="social2"  placeholder="Linkedin" />
                                                 </span> </p>
+                                                <p> We would love to have you on Snapchat. Please fill in your Snapchat ID</p>
+                                            <input type="text" name="insta"  placeholder="Snapchat" />
                                                     <p>The simplest way to get an Admission Ticket for TEDxDTU is to convince us with your "Why me?" statement. Think perhaps of your accomplishments and/or what motivates you to be at TEDxDTU together with a hundred other driven and passionate minds. *
                                                         <br />
                                                         <span>
-                                                <textarea name="message" value ="WHY ME ?"  placeholder ="WHY ME "cols="40" rows="10" disabled></textarea></span> </p>
+                                                <textarea name="message" value ="WHY ME ?"  placeholder ="WHY ME "cols="40" rows="10" ></textarea></span> </p>
                                                     <p>Have you attended any TEDx event before? *
                                                         <br />
                                                         <span>
-                                                <input type="radio" name="Ques" value="yes" size="40" disabled/>YES
-                                                <input type="radio" name="Ques" value="no" size="40" disabled/>NO
+                                                <input type="radio" name="Ques" value="yes" size="40" />YES
+                                                <input type="radio" name="Ques" value="no" size="40" />NO
                                                 </span> </p>
                                                     <p> How did your hear of TEDxDTU?
                                                         <br />
                                                         <!--not required-->
                                                         <span>
-                                            <input type="text" name="knowus"  value="" disabled />
+                                            <input type="text" name="knowus"  value=""  />
                                                 </span> </p>
-                                                    <input type="checkbox" name="checkbox" value="check" id="agree" disabled/> I hereby acknowledge that the aforementioned details are accurate and to the best of my knowledge. I will take full responsibility in case of any discrepancies. Additionally, I understand that TEDxDTU is a paid event as per TED standards.
+                                                    <input type="checkbox" name="checkbox" value="check" id="agree" /> I hereby acknowledge that the aforementioned details are accurate and to the best of my knowledge. I will take full responsibility in case of any discrepancies. Additionally, I understand that TEDxDTU is a paid event as per TED standards.
                                                     <p>
-                                                        <!--<input type="submit" value="apply" class="wpcf7-submit" name="apply" disabled/>-->
+                                                        <input type="submit" value="apply" class="wpcf7-submit" name="apply" />
                                                     </p>
                                                     <div></div>
                                                 </form>

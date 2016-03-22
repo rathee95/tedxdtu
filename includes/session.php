@@ -41,7 +41,7 @@
 		public function logout(){
 			unset($this->user_id);
 			unset($_SESSION['user_id']);
-			$logged_in = false;
+			$this->logged_in = false;
 		}
 
 		public function check_message(){
