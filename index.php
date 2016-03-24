@@ -37,7 +37,7 @@
                                     <!-- Event Location -->
                                     <li><i class="fa fa-map-marker"></i>New Delhi, India</li>
                                     <!-- Event Date -->
-                                    <li><i class="fa fa-calendar"></i>April 18,2016</li>
+                                    <li><i class="fa fa-calendar"></i>April 18, 2016</li>
                                     <!-- Number of speakers -->
                                     <li><i class="fa fa-microphone"></i>10 Stories</li>
                                     <!-- Number of Tickets remaining -->
@@ -83,7 +83,7 @@
                 <source src="/wp-includes/js/tedxdtu1.mp4" type="video/mp4">
             </video>
         </div>
-        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <!-- <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script> -->
         <script src="/wp-includes/js/index.js"></script>
     </div>
     <!---video-->
@@ -94,8 +94,30 @@
                     <div class="center-content">
                         <a href="/login.php" target="_blank">
                             <button id="button1">Register in a heartbeat</button>
+                            </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/nominate.php" target="_blank">
+                            <button id="button1">Nominate Speaker</button>
                             </a>
+                            
                     </div>
+                     <div>
+                    <?php // Create the function, so you can use it
+function isMobile() {
+    return preg_match("/(android|avantgo|blackberry|bolt|boost|cricket|docomo|fone|hiptop|mini|mobi|palm|phone|pie|tablet|up\.browser|up\.link|webos|wos)/i", $_SERVER["HTTP_USER_AGENT"]);
+}
+?> <?php // If the user is on a mobile device, redirect them
+if(isMobile()){
+echo    "<div class='row small-10 medium-10 large-10' >
+    <div class='clock your-clock my-clock' style='margin-left:6%;margin-top: 3%;margin-bottom: 3%'>";
+}else 
+echo "<div class='row small-20 medium-20 large-20' >
+    <div class='clock your-clock my-clock' style='margin-left:33%;margin-top: 3%;margin-bottom: 3%'>";?>
+<?php include 'testclock.php';?>
+</div>
+    </div>
+        
+
+                    </div> 
                 </div>
                 <div class="row">
                     <div class="columns small-12 medium-12 large-12">
@@ -309,7 +331,6 @@ About TED</h4>
                     </div>
                 </div>
             </div>
-        </div>
         <?php include 'includes/footer.html'; ?>
         <!-- /.wrapper -->
         <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
@@ -321,6 +342,27 @@ About TED</h4>
         <script type='text/javascript' src='/wp-content/themes/conference-wpl/assets/javascript/app.js%3Fver=4.4.2'></script>
         <script type='text/javascript' src='/wp-content/themes/conference-wpl/assets/javascript/vendor.js%3Fver=4.4.2'></script>
         <script type='text/javascript' src='/wp-includes/js/wp-embed.min.js%3Fver=4.4.2'></script>
+        <script type="text/javascript">
+            var clock;
+
+            $(document).ready(function() {
+
+                // Grab the current date
+                var currentDate = new Date();
+
+                // Set some date in the future. In this case, it's always Jan 1
+                var futureDate  = new Date("April  18, 2016 1:15:00");
+
+                // Calculate the difference in seconds between the future and current date
+                var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+                // Instantiate a coutdown FlipClock
+                clock = jQuery('.clock').FlipClock(diff, {
+                    clockFace: 'DailyCounter',
+                    countdown: true
+                });
+            });
+        </script>
 </body>
 
 </html>
