@@ -56,7 +56,7 @@
                             <br>
                             <div class="row"><a href="https://drive.google.com/file/d/0B4lFibe8y6AQTXJtaTlNWTZra00/view?usp=sharing" class="wpcf7-submit" target="_blank">Brochure</a></div>
                             <br>
-                            <div class="row"><a href="https://drive.google.com/file/d/0B4lFibe8y6AQdWxOWmRCTy02Uk0/view?usp=sharing" class="wpcf7-submit" target="_blank">Delegation Booklet</a></div>
+                            <div class="row"><a href="https://drive.google.com/open?id=0B4lFibe8y6AQVS1KLXhnSUMxSE0" class="wpcf7-submit" target="_blank">Delegation Booklet</a></div>
                             <br>
                             
                             <p style="text-align:center;margin-bottom:20px;">

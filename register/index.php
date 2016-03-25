@@ -21,20 +21,20 @@ require_once("..".DIRECTORY_SEPARATOR."includes".DIRECTORY_SEPARATOR."phpmailer"
 Hello {$name},
 
 Thank you for applying to attend TEDxDTU 2016. Please note that registration does not automatically guarantee a ticket, 
-so please refrain from booking any transport or accommodation until you receive a confirmation from us. If your application is unsuccessful, 
-you will receive the notification on tedxdtu.com by logging in using your credentials and checking your status.
-Because our venue holds only limited amount of participants, we have to think long and hard before accepting or denying any application.
-It is always a hard choice, so please be patient.
+so please refrain from booking any transport or accommodation until you have received a confirmation from us. If your application is unsuccessful, 
+you will receive a notification on tedxdtu.com by logging in using your credentials and checking your status.
 
-Your entered details are passed to our team for further screening. You will receive an email when you pass our screening and are approved by the authority for attending the event.
+Details filled in by you while filling in the form are passed to our screening team for further assessment. 
+You will receive an email when you pass our screening and are approved by the authority for attending the event.
+
 You can also check your status by logging in from www.tedxdtu.com/login.php.
 If your application is approved, you will have exactly 48 hours to confirm your participation, so watch out for this email.
-When you are approved by the screening team you'll be able to grab your ticket for this event by logging in.
+You'll be able to grab your ticket for this event by logging in.
 
-You can check status of your registration here (Logging in using credentials given below) :
+You can check status of your application here (Logging in using credentials given below) :
 http://tedxdtu.com/login.php
 
-Information will also be published under the URL above.
+Information regarding the event can also be checked for by checking the link specified above.
 
 Your Credentials for logging in are :
 

@@ -28,7 +28,6 @@
                     <!-- <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="/#sponsors">Sponsors</a></li> -->
                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/ourteam.php"> Our Team</a></li>
                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/register"> Register</a></li>
-                    <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/login"> Login</a></li>
 
 
                     <!-- <li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="/#pricing">Buy Tickets</a></li> -->
@@ -44,7 +43,8 @@
                             <!-- <li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="gallery.php">Galleries</a></li> -->
                             <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="contacts.php">Contact</a></li> -->
                             
-                    
+                    <li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="/login"> Login</a></li>
+
                     
                     <li id="menu-item-154" class="register menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a href="http://blog.tedxdtu.com/">BLOG</a></li>
                     
