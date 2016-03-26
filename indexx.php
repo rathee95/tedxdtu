@@ -357,6 +357,11 @@ About TED</h4>
                 // Calculate the difference in seconds between the future and current date
                 var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
 
+                // Instantiate a coutdown FlipClock
+                clock = jQuery('.clock').FlipClock(diff, {
+                    clockFace: 'DailyCounter',
+                    countdown: true
+                });
 $('.countdown').ClassyCountdown({
     theme: "flat-colors",
     end: $.now()+diff
@@ -364,6 +369,7 @@ $('.countdown').ClassyCountdown({
 });
 });
 
+alert($.now());
         </script>
 </body>
 
