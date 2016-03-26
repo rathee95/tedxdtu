@@ -37,7 +37,7 @@
                                     <!-- Event Location -->
                                     <li><i class="fa fa-map-marker"></i>New Delhi, India</li>
                                     <!-- Event Date -->
-                                    <li><i class="fa fa-calendar"></i>April 18, 2016</li>
+                                    <li><i class="fa fa-calendar"></i>18th April 2016</li>
                                     <!-- Number of speakers -->
                                     <li><i class="fa fa-microphone"></i>10 Stories</li>
                                     <!-- Number of Tickets remaining -->

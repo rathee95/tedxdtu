@@ -30,13 +30,18 @@
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Angad Grover
+                                        
+                                        <a href="https://www.facebook.com/tejnoor.angad" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        <a href="https://www.linkedin.com/in/angadtejnoor" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+
                                     </div>
                                 </div>
-                                <div class="name"><a href=" ">Angad Grover</a></div>
+                                <div class="name"><a>Angad Grover</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>President and Curator</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
@@ -44,111 +49,145 @@
                                     <!-- Staff media links -->
                                     <div class="social">
                                         <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Laraib Afroz
+                                        
+                                        <a href="https://www.facebook.com/laraib.afroz" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        <a href="https://qa.linkedin.com/in/laraib-afroz-645a0588" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+
                                     </div>
                                 </div>
-                                <div class="name"><a href=" ">Laraib Afroz</a></div>
+                                <div class="name"><a>Laraib Afroz</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>Design and WEBD HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_2satyanshu__sapra.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="satyanshu" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Satyanshu Sapra
+                                        
+                                        <a href="https://www.facebook.com/satyanshu.sapra" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        <a href="https://in.linkedin.com/in/satyanshu-sapra-31236bba" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Satyanshu Sapra</a></div>
+                                </div><div class="name"><a>SATYANSHU SAPRA</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>RESEARCH HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_jhilakshi.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="jhilakshi" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Jhilakshi
+                                        
+                                        <a href="https://www.facebook.com/profile.php?id=100001575945039" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Jhilakshi</a></div>
+                                </div><div class="name"><a>JHILAKSHI SHARMA</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>CONTENT HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_musaab.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="musaab" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Musaab
+                                    
+                                        <a href="https://www.facebook.com/musaab.n.rashid" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        <a href="https://in.linkedin.com/in/musaab-noman-rashid-a96756bb" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Musaab</a></div>
+                                </div><div class="name"><a>MUSAAB NOMAN RASHID</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>LOGISTICS HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_sonal.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="sonal" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Sonal
+                                        <a href="https://www.facebook.com/sonal.aggarwal.6195" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        <a href="https://www.linkedin.com/in/sonal-aggarwal-5a4790115" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+                                        
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Sonal</a></div>
+                                </div><div class="name"><a>SONAL AGGARWAL</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>PUBLIC RELATIONS HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_tabish.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="tabish" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Tabish
+                                        
+                                        <a href="https://www.facebook.com/kingkhan271" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        <a href="https://www.linkedin.com/in/mohammad-tabish-khan-7741b799" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+                                        
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Tabish</a></div>
+                                    
+                                </div><div class="name"><a>TABISH KHAN</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>PUBLIC RELATIONS HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_wilfred.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="wilfred" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Wilfred
+                                        
+                                        <a href="https://www.facebook.com/wilfred.tommy" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
+                                        
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Wilfred</a></div>
+                                </div><div class="name"><a>WILFRED TOMMY</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>DELEGATION SERVICES HEAD</a></div>
                             </li>
                             <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
                                 <div class="avatar">
                                     <img width="220" height="220" src="wp-includes/img/img2/rsz_yogeshwaran.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="yogeshwaran" />
                                     <!-- Staff media links -->
                                     <div class="social">
-                                        <!-- Staff profile -->
-                                        <a href="">
-                                            <i class="fa fa-user"></i> Yogeshwaran
+                                     <a href="https://www.facebook.com/yogeshwaran.somasundaram" target="_blank">
+                                            <i class="fa fa-facebook"></i>
                                         </a>
                                     </div>
-                                </div>
-                                <div class="name"><a href=" ">Yogeshwaran</a></div>
+                                </div><div class="name"><a>YOGESHWARAN SOMASUNDARAM</a></div>
                                 <!-- Candidate position -->
+                                <div class="company"><a>PHOTOGRAPHY AND VIDEOGRAPHY HEAD</a></div>
+                            </li>
+                              <li id="post-138" class="item post-138 post_staff type-post_staff status-publish has-post-thumbnail hentry wpl_staff_category-ceo">
+                                <div class="avatar">
+                                    <img width="220" height="220" src="wp-includes/img/img2/rsz_ayush.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="ayush" />
+                                    <!-- Staff media links -->
+                                    <div class="social">
+                                     <a href="https://www.facebook.com/ayushbhatia23" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/ayush-bhatia-aaa500100" target="_blank">
+                                            <i class="fa fa-linkedin"></i></a>
+                                        
+
+                                    </div>
+                                </div><div class="name"><a>AYUSH BHATIA</a></div>
+                                <!-- Candidate position -->
+                                <div class="company"><a>CORPORATE HEAD</a></div>
                             </li>
                         </ul>
                     </div>
