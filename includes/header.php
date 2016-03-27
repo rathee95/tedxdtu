@@ -86,29 +86,8 @@
     <link rel='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles.css%3Fver=4.3.1.css' type='text/css' media='all' />
     <link rel='stylesheet' id='Conference-style-css' href='wp-content/themes/conference-wpl/style.css%3Fver=2015-12-11.css' type='text/css' media='all' />
     <!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
-    <script type="text/javascript">
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', '__gaTracker');
-
-    __gaTracker('create', 'UA-348094-43', 'auto', {
-        'allowLinker': true
-    });
-    __gaTracker('set', 'forceSSL', true);
-    __gaTracker('require', 'linker');
-    __gaTracker('linker:autoLink', ['wplook.com']);
-    __gaTracker('require', 'displayfeatures');
-    __gaTracker('send', 'pageview');
-    </script>
-    <!-- / Google Analytics by Yoast -->
+   <meta name="google-site-verification" content="eWvav867UeEweagnE0DiYmia1zkqdvViVOa6BRuDG4E" />
+    
     <script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
     <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
     <link rel='https://api.w.org/' href='wp-json/index.html' />
