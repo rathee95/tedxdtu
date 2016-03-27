@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Localizing the Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #map {
+        height: 50%;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script>
+    function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 16,
+            center: {
+                lat: 28.7501,
+                lng: 77.1177
+            }
+        });
+
+
+    var myLatLng = {
+        lat: 28.7501,
+        lng: 77.1177
+    };
+
+    // Add marker to your map
+    var marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+        title: 'TEDxDTU'
+    });
+
+    }
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBFKpDkpWHGM_tpTgVHT5TChOcwTBs9Ywc  &callback=initMap" async defer>
+    </script>
+</body>
+
+</html>
