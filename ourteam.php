@@ -184,6 +184,27 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="columns small-12 medium-12 large-12">
+                    <h2 class="title_blog" style="font-family: Montserrat">CREATIVITY TEAM</h2>
+                    <ul>
+                        <li style="font-family: lato">Abhishek Rathee</li>
+                        <li>Adil Haris</li>
+                        <li>Ankit Jain</li>
+                        <li>Ashutosh</li>
+                        <li>Ashwin Anand</li>
+                        <li>Ayush Goel</li>
+                        <li>Chaitanya Sethi</li>
+                        <li>Harish</li>
+                        <li>Karan Singhal</li>
+                        <li>Modassir Iqbal</li>
+                        <li>Rohan Mishra</li>
+                        <li>Sneha Roy</li>
+                        <li>Shivali Goel</li>
+                        <li>Shivani Aggarwal</li>
+                    </ul>
+                </div>
+            </div>
         </div>
         <?php include 'includes/footer.html'; ?>
     </div>
