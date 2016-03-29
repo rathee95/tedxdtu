@@ -8,7 +8,7 @@ include 'connect.php';
 $fields = array(
     "sname" => array(
         "type" => "text",
-        "label" => "Speaker Name:",
+        "label" => "Speaker Name:*",
         "html" => 'required=""',
         "pattern" => ''
     ),
@@ -24,18 +24,18 @@ $fields = array(
     ),
     "sidea" => array(
         "type" => "textarea",
-        "label" => "Tell us briefly about the speaker's idea. Why is it important for the people in India and the world?",
+        "label" => "Tell us briefly about the speaker's idea. Why is it important for the people in India and the world?*",
         "pattern" => ''
     ),
     "sabout" => array(
         "type" => "textarea",
-        "label" => "Please tell us something about this individual that helps us understand him/her better. What makes him/her right for TEDxDTU? Feel free to share past accomplishments in their field, awards and accolades.
+        "label" => "Please tell us something about this individual that helps us understand him/her better. What makes him/her right for TEDxDTU? Feel free to share past accomplishments in their field, awards and accolades.*
 ",
         "pattern" => ''
     ),
     "slinks" => array(
         "type" => "textarea",
-        "label" => "Please provide us with any links/articles/publications/recommendations about the speaker's work.",
+        "label" => "Please provide us with any links/articles/publications/recommendations about the speaker's work.*",
         "pattern" => ''
     ),
     "svideos" => array(
@@ -45,17 +45,17 @@ $fields = array(
     ),
     "nominatee" => array(
         "type" => "text",
-        "label" => "Nominated by:",
+        "label" => "Nominated by:*",
         "pattern" => ''
     ),
     "nnumber" => array(
         "type" => "text",
-        "label" => "Nominator's Mobile Number:",
+        "label" => "Nominator's Mobile Number:*",
         "pattern" => '[0-9]{1,}'
     ),
     "nemail" => array(
         "type" => "text",
-        "label" => "Nominator's Email Address:",
+        "label" => "Nominator's Email Address:*",
         "pattern" => '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$'
     )
 );

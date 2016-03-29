@@ -21,7 +21,7 @@
                     <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-71"><a href="/"><img src ="wp-content/uploads/sites/9/2014/10/logo.png"></a></li>
                     <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-71"><a href="/">Home</a></li>
                     <li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="/#aboutus">About TED<span style="text-transform:none;">x</span></a></li>
-                    <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="/#speakers1">Past Speakers</a></li>
+                    <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="/#speakers1">Speakers</a></li>
                     <!-- <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="http://goo.gl/forms/tU6vltl1DQ" target="_blank">Suggest A Speaker</a></li> -->
                     <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://blog.tedxdtu.com/" target="_blank">Blog</a></li> -->
                     <!-- <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/#schedule">Schedule</a></li> -->
