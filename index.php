@@ -329,36 +329,7 @@ About TED</h4>
                 </div>
             </div>
         </div>
-            <div id="map"></div>
-    <script>
-    function initMap() {
-        var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 16,
-            center: {
-                lat: 28.7501,
-                lng: 77.1177
-            }
-        });
-
-
-    var myLatLng = {
-        lat: 28.7501,
-        lng: 77.1177
-    };
-
-    // Add marker to your map
-    var marker = new google.maps.Marker({
-        position: myLatLng,
-        map: map,
-        title: 'TEDxDTU'
-    });
-
-    }
-
-    </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBFKpDkpWHGM_tpTgVHT5TChOcwTBs9Ywc  &callback=initMap" async defer>
-    </script>
-
+           
         <?php include 'includes/footer.html'; ?>
         <!-- /.wrapper -->
         <script type='text/javascript' src='/wp-includes/js/comment-reply.min.js%3Fver=4.4.2'></script>
