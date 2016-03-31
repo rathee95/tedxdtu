@@ -25,7 +25,7 @@
                     <!-- <li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="http://goo.gl/forms/tU6vltl1DQ" target="_blank">Suggest A Speaker</a></li> -->
                     <!-- <li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="http://blog.tedxdtu.com/" target="_blank">Blog</a></li> -->
                     <!-- <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="/#schedule">Schedule</a></li> -->
-                    <!-- <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="/#sponsors">Sponsors</a></li> -->
+                    <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="/#sponsors">Sponsors</a></li>
                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/ourteam.php"> Our Team</a></li>
                     <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="/register"> Register</a></li>
 
