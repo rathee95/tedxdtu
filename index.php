@@ -201,8 +201,26 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Taru Dalmia</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">ReggaeDancehall Artist</a></div>
+                            <div class="company"><a href="#speakers">Reggae Dancehall Artist</a></div>
                         </li>
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/aaron.png" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="Aaron" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                    
+                                    <a href="https://www.facebook.com/aaron.friedland.9" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Aaron Friedland</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">Exectuive Director, The Walking School Bus</a></div>
+                        </li>
+
+
 
                        <li>More Speakers will be updated soon </li>
                     </ul>
