@@ -158,7 +158,7 @@ About TED</h4>
                                     <a href="https://en.wikipedia.org/wiki/Ashok_Seth" target="_blank">
                                         <i class="fa fa-user"></i>
                                     </a>
-                                    </a>
+                                    
                                 </div>
                             </div>
                             <div class="name"><a href="#speakers">Dr. Ashok Seth</a></div>
@@ -194,7 +194,7 @@ About TED</h4>
                                     <a href="https://www.facebook.com/delhisultanate" target="_blank">
                                         <i class="fa fa-facebook"></i>
                                     </a>
-                                    <a href="hhttps://twitter.com/delhisultanate" target="_blank">
+                                    <a href="https://twitter.com/delhisultanate" target="_blank">
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </div>
@@ -219,6 +219,33 @@ About TED</h4>
                             <!-- Speaker company -->
                             <div class="company"><a href="#speakers">Exectuive Director, The Walking School Bus</a></div>
                         </li>
+
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/alisha.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="Alisha" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                     <a href="http://iamalishaabdullah.com/" target="_blank">
+                                        <i class="fa fa-user"></i>
+                                    </a>
+                                    
+
+
+                                    <a href="https://www.facebook.com/iamalishaabdullah/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://twitter.com/alishaabdullah" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Alisha Abdullah</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">India's first car and bike racing champion</a></div>
+                        </li>
+
+
 
 
 
@@ -414,26 +441,37 @@ About TED</h4>
                         <h2>Our Sponsors</h2>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
                             <!-- First Speacker -->
-                            <!-- Speackers -->
-                            <li id="post-42" class="item post-42 post_sponsor type-post_sponsor status-publish hentry">
-                                <a href="https://mypoolin.com/" target="_blank" title="My poolin">
-                                    <img src="/wp-includes/img/sponsors/Banner.png" width="200" height="85" alt="CMy poolin">
-                                </a>
-                                
+                            
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="http://www.thestatesman.com/" target="_blank" title="the-statesman">
-                                    <img src="/wp-includes/img/sponsors/Statesman_logo.png" width="200" height="85" alt="statesman">
+                                    <img src="/wp-includes/img/sponsors/Statesman.jpg" width="200" height="85" alt="statesman">
                                 </a>
                             </li>
-                            <!-- Speackers -->
+                           
                             <li id="post-37" class="item post-37 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="http://dubeat.com/" target="_blank" title="DUbeat">
-                                    <img src="/wp-includes/img/sponsors/DUB-Logo.jpg" width="200" height="85" alt="DUBEAT">
+                                    <img src="/wp-includes/img/sponsors/DU-beat.jpg" width="200" height="85" alt="DUBEAT">
                                 </a>
                             </li>
+
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="https://www.facebook.com/Collegehunt2014/" target="_blank" title="du-express">
+                                    <img src="/wp-includes/img/sponsors/DU-express.jpg" width="200" height="85" alt="statesman">
+                                </a>
+                            </li>
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="http://www.partiko.com/" target="_blank" title="partiko">
+                                    <img src="/wp-includes/img/sponsors/Partiko.jpg" width="200" height="85" alt="statesman">
+                                </a>
+                            </li>
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="http://www.collegemedia.in" target="_blank" title="college-media">
+                                    <img src="/wp-includes/img/sponsors/College-Media.jpg" width="200" height="85" alt="statesman">
+                                </a>
+                            </li>
+
                             <!-- Speackers -->
                             
-                            </li>
                         </ul>
                         <!-- View all Sponsors Button -->
                         <!-- <div class="view-all-partners">
