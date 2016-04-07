@@ -245,6 +245,25 @@ About TED</h4>
                             <div class="company"><a href="#speakers">India's first car and bike racing champion</a></div>
                         </li>
 
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/richa.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="richa" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                    <a href="https://www.facebook.com/therichachadha/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://twitter.com/richachadha_" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Richa Chadda</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">Actress</a></div>
+                        </li>
+
 
 
 
@@ -442,12 +461,19 @@ About TED</h4>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
                             <!-- First Speacker -->
                             
-                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">Title Media Partner 
                                 <a href="http://www.thestatesman.com/" target="_blank" title="the-statesman">
                                     <img src="/wp-includes/img/sponsors/Statesman.jpg" width="200" height="85" alt="statesman">
                                 </a>
                             </li>
                            
+
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">Radio Partner
+                                <a href="http://www.radioone.in/" target="_blank" title="Radio-one-94.3">
+                                    <img src="/wp-includes/img/sponsors/Radio-one-94.3.jpg" width="200" height="85" alt="radio-one">
+                                </a>
+                            </li>
+
                             <li id="post-37" class="item post-37 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="http://dubeat.com/" target="_blank" title="DUbeat">
                                     <img src="/wp-includes/img/sponsors/DU-beat.jpg" width="200" height="85" alt="DUBEAT">
@@ -456,20 +482,35 @@ About TED</h4>
 
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="https://www.facebook.com/Collegehunt2014/" target="_blank" title="du-express">
-                                    <img src="/wp-includes/img/sponsors/DU-express.jpg" width="200" height="85" alt="statesman">
+                                    <img src="/wp-includes/img/sponsors/DU-express.jpg" width="200" height="85" alt="du-express">
                                 </a>
                             </li>
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="http://www.partiko.com/" target="_blank" title="partiko">
-                                    <img src="/wp-includes/img/sponsors/Partiko.jpg" width="200" height="85" alt="statesman">
+                                    <img src="/wp-includes/img/sponsors/Partiko.jpg" width="200" height="85" alt="partiko">
                                 </a>
                             </li>
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="http://www.collegemedia.in" target="_blank" title="college-media">
-                                    <img src="/wp-includes/img/sponsors/College-Media.jpg" width="200" height="85" alt="statesman">
+                                    <img src="/wp-includes/img/sponsors/College-Media.jpg" width="200" height="85" alt="college-media">
                                 </a>
                             </li>
 
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="http://www.thecitizen.in/" target="_blank" title="The-citizen">
+                                    <img src="/wp-includes/img/sponsors/TheCitizen.jpg" width="200" height="85" alt="the-citizen">
+                                </a>
+                            </li>
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="http://www.universityexpress.co.in/delhiuniversity/" target="_blank" title="UE">
+                                    <img src="/wp-includes/img/sponsors/UE.jpg" width="200" height="85" alt="UE">
+                                </a>
+                            </li>
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="" target="_blank" title="du-page">
+                                    <img src="/wp-includes/img/sponsors/DU_Page.jpg" width="200" height="85" alt="du_page">
+                                </a>
+                            </li>
                             <!-- Speackers -->
                             
                         </ul>
