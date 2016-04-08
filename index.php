@@ -265,8 +265,50 @@ About TED</h4>
                         </li>
 
 
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/dc.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="dc" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                    <a href="http://www.dcdesign.co.in/" target="_blank">
+                                        <i class="fa fa-user"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/dcdesignindia" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://twitter.com/dcdesignindia" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Dilip Chhabria</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">Car Designer</a></div>
+                        </li>
 
-
+                        
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/shivangi.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="shivangi" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                    <a href="http://www.drshivangi.com/" target="_blank">
+                                        <i class="fa fa-user"></i>
+                                    </a>
+                                    <a href="https://www.facebook.com/Dr-Shivangi-Maletia-623300214455188/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://twitter.com/shivangimaletia" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Shivangi Maletia</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">Femina Officially Gorgeous 2016</a></div>
+                        </li>
 
                        <li>More Speakers will be updated soon </li>
                     </ul>
