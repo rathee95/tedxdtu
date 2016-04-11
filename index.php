@@ -310,6 +310,34 @@ About TED</h4>
                             <div class="company"><a href="#speakers">Femina Officially Gorgeous 2016</a></div>
                         </li>
 
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/s-modi.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="Sanjay-modi" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                    
+                                    <a href="https://www.facebook.com/sanjay.modi.165" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/in/sanjay-modi-10a41a6" target="_blank">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+
+                                    <a href="https://twitter.com/modi_sanjay" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+
+
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Sanjay Modi</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">Managing Director, Monster India</a></div>
+                        </li>
+
+
+
                        <li>More Speakers will be updated soon </li>
                     </ul>
                     <h2> Past Speakers 2011</h2>
