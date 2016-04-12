@@ -163,7 +163,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Dr. Ashok Seth</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Chairman FORTIS ESCORTS HEART INSTITUTE</a></div>
+                            <div class="company"><a href="#speakers">Renowned Cardiologist, Padma Bhushan Recepient, Chairman of Fortis escorts heart institute</a></div>
                         </li>
                         <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                             <div class="avatar">
@@ -182,7 +182,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Anurag Batra</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Chairman at BW Businessworld </a></div>
+                            <div class="company"><a href="#speakers">Editor, Angel Investor, Writer, Businessman, Entrepreneur, Extraordinaire </a></div>
                         </li>
                         <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                             <div class="avatar">
@@ -201,7 +201,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Taru Dalmia</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Reggae Dancehall Artist</a></div>
+                            <div class="company"><a href="#speakers">Eminent Indian reggae artist, pioneer of Dancehall and Ska</a></div>
                         </li>
                         <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
                             <div class="avatar">
@@ -217,7 +217,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Aaron Friedland</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Exectuive Director, The Walking School Bus</a></div>
+                            <div class="company"><a href="#speakers">Noted analyst and social worker, Executive Director of The Walking School Bus</a></div>
                         </li>
 
                         <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
@@ -242,7 +242,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Alisha Abdullah</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">India's first car and bike racing champion</a></div>
+                            <div class="company"><a href="#speakers">Pioneer of female car and bike racing in India and the World</a></div>
                         </li>
 
                         <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
@@ -261,7 +261,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Richa Chadda</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Actress</a></div>
+                            <div class="company"><a href="#speakers">Filmfare Award winning, critically lauded Bollywood actress</a></div>
                         </li>
 
 
@@ -284,7 +284,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Dilip Chhabria</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Car Designer</a></div>
+                            <div class="company"><a href="#speakers">Visionary trailblazer of automotive designing, Founder of DC Design.</a></div>
                         </li>
 
                         
@@ -307,7 +307,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Shivangi Maletia</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Femina Officially Gorgeous 2016</a></div>
+                            <div class="company"><a href="#speakers">Noted dental surgeon, model and pageant choreographer, Titled ‘Femina Officially Gorgeous, 2016'. Ardent social worker</a></div>
                         </li>
 
                         <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
@@ -333,7 +333,7 @@ About TED</h4>
                             </div>
                             <div class="name"><a href="#speakers">Sanjay Modi</a></div>
                             <!-- Speaker company -->
-                            <div class="company"><a href="#speakers">Managing Director, Monster India</a></div>
+                            <div class="company"><a href="#speakers">Managing Director, Monster.com (India, Middle East, South East Asia, Hong Kong). Illustrious technocrat</a></div>
                         </li>
 
 
