@@ -531,6 +531,12 @@ About TED</h4>
                         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
                             <!-- First Speacker -->
                             
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">Stationery Partner 
+                                <a href="www.neelgagan.com" target="_blank" title="neelgagan">
+                                    <img src="/wp-includes/img/sponsors/neelgagan.jpg" width="200" height="85" alt="neelgagan">
+                                </a>
+                            </li>
+
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">Title Media Partner 
                                 <a href="http://www.thestatesman.com/" target="_blank" title="the-statesman">
                                     <img src="/wp-includes/img/sponsors/Statesman.jpg" width="200" height="85" alt="statesman">
@@ -581,6 +587,12 @@ About TED</h4>
                                     <img src="/wp-includes/img/sponsors/DU_Page.jpg" width="200" height="85" alt="du_page">
                                 </a>
                             </li>
+                            <li id="post-37" class="item post-37 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href="http://collegedesk.in/" target="_blank" title="collegedesk">
+                                    <img src="/wp-includes/img/sponsors/collegedesk.jpg" width="200" height="85" alt="collegedesk">
+                                </a>
+                            </li>
+
                             <!-- Speackers -->
                             
                         </ul>
