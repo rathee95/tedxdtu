@@ -336,9 +336,22 @@ About TED</h4>
                             <div class="company"><a href="#speakers">Managing Director, Monster.com (India, Middle East, South East Asia, Hong Kong). Illustrious technocrat</a></div>
                         </li>
 
-
-
-                       <li>More Speakers will be updated soon </li>
+                        <li id="post-17" class="item post-17 post_speaker type-post_speaker status-publish has-post-thumbnail hentry wpl_speakers_category-second-day">
+                            <div class="avatar">
+                                <img width="220" height="220" src="wp-includes/img/speakers/archy.jpg" class="attachment-speaker-thumb size-speaker-thumb wp-post-image" alt="archy" />
+                                <!-- Speaker media links -->
+                                <div class="social">
+                                    <!-- Speacker profile / blog url -->
+                                    
+                                    <a href="https://www.facebook.com/ArchyJay" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="name"><a href="#speakers">Archy Jay</a></div>
+                            <!-- Speaker company -->
+                            <div class="company"><a href="#speakers">India's First Bagpipe Artist, A mellifluous vocalist, popularly referred to as 'The Snake Charmer'</a></div>
+                        </li>
                     </ul>
                     <h2> Past Speakers 2011</h2>
                     <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4">
@@ -532,7 +545,7 @@ About TED</h4>
                             <!-- First Speacker -->
                             
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">Stationery Partner 
-                                <a href="www.neelgagan.com" target="_blank" title="neelgagan">
+                                <a href="http://www.neelgagan.com" target="_blank" title="neelgagan">
                                     <img src="/wp-includes/img/sponsors/neelgagan.jpg" width="200" height="85" alt="neelgagan">
                                 </a>
                             </li>
@@ -555,6 +568,12 @@ About TED</h4>
                                     <img src="/wp-includes/img/sponsors/DU-beat.jpg" width="200" height="85" alt="DUBEAT">
                                 </a>
                             </li>
+
+                            <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
+                                <a href=" " target="_blank" title="grabkaro">
+                                    <img src="/wp-includes/img/sponsors/GrabKaro.jpg" width="200" height="85" alt="grabkaro">
+                                </a>
+                            </li>                            
 
                             <li id="post-34" class="item post-34 post_sponsor type-post_sponsor status-publish hentry">
                                 <a href="https://www.facebook.com/Collegehunt2014/" target="_blank" title="du-express">
